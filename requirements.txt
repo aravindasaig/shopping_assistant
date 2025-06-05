@@ -1,0 +1,52 @@
+# Core Frameworks
+langgraph==0.2.60
+langchain==0.3.25
+langchain-core==0.3.63
+langchain-openai==0.3.16
+langchain-tavily==0.1.6
+langgraph-checkpoint==2.0.25
+langgraph-sdk==0.1.66
+llama-index-embeddings-huggingface
+langchain_community
+
+# Weaviate
+weaviate-client>=4.4.4
+pymilvus>=2.4.0
+
+# Azure + OpenAI
+openai==1.78.1
+azure-core==1.9.0
+azure-identity==1.5.0
+azure-openai  # if used directly, else handled via `openai`
+
+# Embedding & Transformers
+transformers==4.52.4
+sentence-transformers==4.1.0
+torch==2.7.1
+tqdm==4.67.1
+pillow==11.2.1
+
+# FastAPI & Web Services
+fastapi==0.104.1
+uvicorn==0.24.0
+python-multipart==0.0.6
+
+# ORM & SQL
+SQLAlchemy==2.0.40
+aiosqlite==0.21.0
+
+# Data Handling
+pandas==2.2.3
+pydantic==2.11.4
+pydantic-settings==2.0.3
+python-dotenv==1.0.0
+
+# Utils
+requests==2.32.3
+orjson==3.10.18
+regex==2024.11.6
+tabulate==0.9.0
+scikit-learn==1.6.1
+scipy==1.15.3
+joblib==1.5.1
+typing_extensions==4.13.2

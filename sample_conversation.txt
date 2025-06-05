@@ -1,0 +1,297 @@
+(renv) aravindagadamsetty@ki0940:~/cd/imgbot$ python3 -m shopping_assistant.main
+🛍️ AI Product Search Assistant (LangGraph Powered)
+Type 'quit' to exit, 'reset' to restart, or 'image <path>' to search with an image.
+
+👤 You: image test/1532.jpg
+
+🔄 Turn 1 | User: search with this image
+🎭 Supervisor analyzing request...
+🎯 Decision: intent_classifier
+💭 Reasoning: The user wants to search using an image, which is a product search action. There are no current or historical search results available, and the input does not match FAQ, cart, small talk, or out-of-domain criteria.
+🔍 Search context: Current=0, Historical=False
+🎯 Classifying user intent...
+✅ Intent detected: product_search
+🔎 Extracting entities...
+🖼️ Processing multimodal input (text + image)...
+✅ Extracted entities (multimodal): {'product_type': 't-shirt', 'brand': 'Puma', 'color': 'light grey', 'gender': 'male', 'pattern': 'graphic'}
+🧵 Stitching conversation context...
+🧩 First turn — no stitching needed
+🔍 Searching vector database...
+📝 Search text: product_type: t-shirt. brand: Puma. color: light grey. gender: male. pattern: graphic
+🖼️ Processing hybrid search (image + text)...
+🔀 Combining embeddings: Image(80%) + Text(20%)
+✅ Processed result 1: Puma T-shirt - ₹1480.5
+✅ Processed result 2: Puma T-shirt - ₹421.51
+✅ Processed result 3: Puma T-shirt - ₹1087.69
+✅ Processed result 4: Puma T-shirt - ₹1689.5
+✅ Processed result 5: Puma T-shirt - ₹724.26
+✅ Processed result 6: Puma T-shirt - ₹369.85
+✅ Processed result 7: Puma T-shirt - ₹630.21
+✅ Processed result 8: Nike T-shirt - ₹1625.59
+✅ Processed result 9: Puma T-shirt - ₹1647.62
+✅ Processed result 10: Nike T-shirt - ₹372.31
+✅ Processed result 11: USPA T-shirt - ₹1847.7
+✅ Processed result 12: Hurley T-shirt - ₹1128.53
+✅ Processed result 13: Uniqlo T-shirt - ₹1937.0
+✅ Processed result 14: Nike T-shirt - ₹1201.52
+✅ Processed result 15: Hurley T-shirt - ₹1253.41
+✅ Processed result 16: Columbia T-shirt - ₹1006.69
+✅ Processed result 17: Nike T-shirt - ₹986.58
+✅ Processed result 18: Nike T-shirt - ₹1775.94
+✅ Processed result 19: Huf T-shirt - ₹905.36
+✅ Processed result 20: Nike T-shirt - ₹359.67
+✅ Found and processed 20 products
+❓ Checking if clarification is needed...
+🔍 Too many high-confidence matches, asking for clarification...
+💬 Generating response...
+✅ Response generated
+
+🤖 Agent: What size are you looking for?
+
+Example: "Do you need a medium or large size?"
+
+👤 You: medium
+
+🔄 Turn 2 | User: medium
+🎭 Supervisor analyzing request...
+🎯 Decision: intent_classifier
+💭 Reasoning: The user input 'medium' is a single-word clarification response, likely specifying the size for the previously discussed product. There are no current search results, but historical results are available. This fits the clarification response criteria, so the next step is to continue the search flow.
+🔍 Search context: Current=0, Historical=True
+🎯 Classifying user intent...
+✅ Intent detected: modification
+🔎 Extracting entities...
+📝 Processing text-only input...
+✅ Extracted entities (text): {'size': 'M'}
+🧵 Stitching conversation context...
+🧩 Stitched context: {'product_type': 't-shirt', 'brand': 'Puma', 'color': 'light grey', 'gender': 'male', 'pattern': 'graphic', 'size': 'M'}
+🔍 Searching vector database...
+📝 Search text: product_type: t-shirt. brand: Puma. color: light grey. gender: male. pattern: graphic. size: M
+📝 Processing text search...
+✅ Processed result 1: Puma T-shirt - ₹421.51
+✅ Processed result 2: Puma T-shirt - ₹1689.5
+✅ Processed result 3: Puma T-shirt - ₹1480.5
+✅ Processed result 4: Puma T-shirt - ₹369.85
+✅ Processed result 5: Puma T-shirt - ₹724.26
+✅ Processed result 6: Puma T-shirt - ₹630.21
+✅ Processed result 7: Puma T-shirt - ₹1087.69
+✅ Processed result 8: Puma T-shirt - ₹1647.62
+✅ Processed result 9: Zara T-shirt - ₹1360.1
+✅ Processed result 10: Napapijri T-shirt - ₹1031.2
+✅ Processed result 11: Under Armour T-shirt - ₹618.47
+✅ Processed result 12: Nike T-shirt - ₹1380.29
+✅ Processed result 13: USPA T-shirt - ₹1847.7
+✅ Processed result 14: Nike T-shirt - ₹671.36
+✅ Processed result 15: Hurley T-shirt - ₹1253.41
+✅ Processed result 16: Nike T-shirt - ₹986.58
+✅ Processed result 17: GANT T-shirt - ₹1340.97
+✅ Processed result 18: Nike T-shirt - ₹1207.29
+✅ Processed result 19: Nike T-shirt - ₹739.73
+✅ Processed result 20: Adidas T-shirt - ₹1192.66
+✅ Found and processed 20 products
+❓ Checking if clarification is needed...
+🔍 Too many high-confidence matches, asking for clarification...
+💬 Generating response...
+✅ Response generated
+
+🤖 Agent: Do you prefer a specific graphic design or theme on the t-shirt?
+
+Example: "Would you like a sports-themed graphic or something abstract?"
+
+👤 You: abstract
+
+🔄 Turn 3 | User: abstract
+🎭 Supervisor analyzing request...
+🎯 Decision: intent_classifier
+💭 Reasoning: The user input 'abstract' is a single-word response that could be a clarification or a product search refinement (possibly referring to an abstract graphic pattern). There are no current search results, but historical results exist. No explicit cart or FAQ/analytics intent detected. The input is safe and in-domain.
+🔍 Search context: Current=0, Historical=True
+🎯 Classifying user intent...
+✅ Intent detected: clarification_response
+🔎 Extracting entities...
+📝 Processing text-only input...
+✅ Extracted entities (text): {}
+🧵 Stitching conversation context...
+🧩 Stitched context: {'product_type': 't-shirt', 'brand': 'Puma', 'color': 'light grey', 'gender': 'male', 'pattern': 'graphic', 'size': 'M', 'graphic_type': 'abstract'}
+🔍 Searching vector database...
+📝 Search text: product_type: t-shirt. brand: Puma. color: light grey. gender: male. pattern: graphic. size: M. graphic_type: abstract
+📝 Processing text search...
+✅ Processed result 1: Puma T-shirt - ₹421.51
+✅ Processed result 2: Puma T-shirt - ₹369.85
+✅ Processed result 3: Puma T-shirt - ₹1689.5
+✅ Processed result 4: Puma T-shirt - ₹1480.5
+✅ Processed result 5: Puma T-shirt - ₹630.21
+✅ Processed result 6: Puma T-shirt - ₹724.26
+✅ Processed result 7: Puma T-shirt - ₹1087.69
+✅ Processed result 8: Zara T-shirt - ₹1360.1
+✅ Processed result 9: Napapijri T-shirt - ₹1031.2
+✅ Processed result 10: Nike T-shirt - ₹671.36
+✅ Processed result 11: Hurley T-shirt - ₹1253.41
+✅ Processed result 12: USPA T-shirt - ₹1847.7
+✅ Processed result 13: Nike T-shirt - ₹986.58
+✅ Processed result 14: Puma T-shirt - ₹1647.62
+✅ Processed result 15: Nike T-shirt - ₹1625.59
+✅ Processed result 16: GANT T-shirt - ₹1340.97
+✅ Processed result 17: Nike T-shirt - ₹1032.15
+✅ Processed result 18: Nike T-shirt - ₹1775.94
+✅ Processed result 19: Nike T-shirt - ₹1864.29
+✅ Processed result 20: Basics T-shirt - ₹844.8
+✅ Found and processed 20 products
+❓ Checking if clarification is needed...
+🔍 Too many high-confidence matches, asking for clarification...
+💬 Generating response...
+✅ Response generated
+
+🤖 Agent: Do you have a preferred fit, like slim or regular?
+
+Example: "Do you have a preferred fit, like slim or regular?"
+
+👤 You: slim
+
+🔄 Turn 4 | User: slim
+🎭 Supervisor analyzing request...
+🎯 Decision: intent_classifier
+💭 Reasoning: The user input 'slim' is a single-word response likely clarifying a fit or style preference for the t-shirt search. There are no current search results, but historical results are available. This fits the clarification response pattern, so the next step is to continue the search flow.
+🔍 Search context: Current=0, Historical=True
+🎯 Classifying user intent...
+✅ Intent detected: modification
+🔎 Extracting entities...
+📝 Processing text-only input...
+✅ Extracted entities (text): {}
+🧵 Stitching conversation context...
+🧩 Stitched context: {'product_type': 't-shirt', 'brand': 'Puma', 'color': 'light grey', 'gender': 'male', 'pattern': 'graphic', 'size': 'M', 'graphic_type': 'abstract', 'fit': 'slim'}
+🔍 Searching vector database...
+📝 Search text: product_type: t-shirt. brand: Puma. color: light grey. gender: male. pattern: graphic. size: M. graphic_type: abstract. fit: slim
+📝 Processing text search...
+✅ Processed result 1: Puma T-shirt - ₹421.51
+✅ Processed result 2: Puma T-shirt - ₹1689.5
+✅ Processed result 3: Puma T-shirt - ₹369.85
+✅ Processed result 4: Puma T-shirt - ₹630.21
+✅ Processed result 5: Puma T-shirt - ₹1480.5
+✅ Processed result 6: Puma T-shirt - ₹724.26
+✅ Processed result 7: Puma T-shirt - ₹1087.69
+✅ Processed result 8: Zara T-shirt - ₹1360.1
+✅ Processed result 9: Napapijri T-shirt - ₹1031.2
+✅ Processed result 10: Hurley T-shirt - ₹1253.41
+✅ Processed result 11: Nike T-shirt - ₹671.36
+✅ Processed result 12: Puma T-shirt - ₹1647.62
+✅ Processed result 13: Nike T-shirt - ₹986.58
+✅ Processed result 14: Nike T-shirt - ₹1625.59
+✅ Processed result 15: Nike T-shirt - ₹1032.15
+✅ Processed result 16: Nike T-shirt - ₹1775.94
+✅ Processed result 17: Nike T-shirt - ₹1001.67
+✅ Processed result 18: GANT T-shirt - ₹1340.97
+✅ Processed result 19: Nike T-shirt - ₹1864.29
+✅ Processed result 20: Adidas T-shirt - ₹1892.69
+✅ Found and processed 20 products
+❓ Checking if clarification is needed...
+🛑 Max clarifications reached.
+💬 Generating response...
+📦 Displaying 20 high-quality products
+📦 Product 1: Puma T-shirt - Grey (₹421.51, Score: 0.756)
+📦 Product 2: Puma T-shirt - Light Pink (₹1689.5, Score: 0.751)
+📦 Product 3: Puma T-shirt - White (₹369.85, Score: 0.75)
+📦 Product 4: Puma T-shirt - Black (₹630.21, Score: 0.746)
+📦 Product 5: Puma T-shirt - Grey (₹1480.5, Score: 0.746)
+📦 Product 6: Puma T-shirt - ['White', 'Light Blue'] (₹724.26, Score: 0.736)
+📦 Product 7: Puma T-shirt - Light blue, purple, white (tie-dye/gradient) (₹1087.69, Score: 0.733)
+📦 Product 8: Zara T-shirt - Gray (₹1360.1, Score: 0.709)
+✅ Response generated
+
+🤖 Agent: Perfect! I found 8 excellent matches for your search:
+
+1. Puma T-shirt (Grey)
+   ₹421.51 | Cotton | Regular Fit
+   ID: 125.jpg | Quality Score: 0.756
+
+2. Puma T-shirt (Light Pink)
+   ₹1689.5 | Cotton | Regular Fit
+   ID: 173.jpg | Quality Score: 0.751
+
+3. Puma T-shirt (White)
+   ₹369.85 | Cotton | Regular Fit
+   ID: 166.jpg | Quality Score: 0.75
+
+4. Puma T-shirt (Black)
+   ₹630.21 | Cotton | Regular Fit
+   ID: 22.jpg | Quality Score: 0.746
+
+5. Puma T-shirt (Grey)
+   ₹1480.5 | Cotton | Regular Fit
+   ID: 179.jpg | Quality Score: 0.746
+
+6. Puma T-shirt (['White', 'Light Blue'])
+   ₹724.26 | Cotton | Oversized Fit
+   ID: 145.jpg | Quality Score: 0.736
+
+7. Puma T-shirt (Light blue, purple, white (tie-dye/gradient))
+   ₹1087.69 | Cotton | Regular Fit
+   ID: 60.jpg | Quality Score: 0.733
+
+8. Zara T-shirt (Gray)
+   ₹1360.1 | Cotton | Oversized Fit
+   ID: 45.jpg | Quality Score: 0.709
+
+All products have high similarity scores (>0.6) for your requirements!
+
+(12 more similar items available)
+
+👤 You: add 3rd to cart
+
+🔄 Turn 5 | User: add 3rd to cart
+🎭 Supervisor analyzing request...
+🎯 Decision: cart_manager
+💭 Reasoning: The user gave an explicit cart action ('add 3rd to cart'). Although there are no current search results, historical search results are available, and adding to cart is allowed. According to the criteria, ADD actions with any search results (current or historical) should be routed to cart_manager.
+🔍 Search context: Current=0, Historical=True
+🛒 Handling cart operation...
+🔍 Detected cart action: add
+📚 Using search results from turn 4
+✅ Using standardized metadata structure
+🔍 Final metadata: {'product_type': 'T-shirt', 'brand': 'Puma', 'color': 'White', 'material': 'Cotton', 'gender': 'Female', 'size': 'N/A', 'pattern': 'Graphic', 'theme': 'Casual', 'price_inr': 369.85, 'image_id': '166.jpg', 'fit': 'Regular', 'sleeve_type': 'Short Sleeve', 'neck_type': 'Crew Neck', 'visual_tags': ['printed', 'has text', 'graphic print'], 'category': 'Fashion', 'subcategory': "Women's Clothing"}
+✅ Successfully created cart item: Puma T-shirt
+
+🤖 Agent: ✅ Added Puma T-shirt (White) - ₹369.85 to your cart!
+
+🛒 Cart Summary (1 items):
+
+1. Puma T-shirt - White
+   ₹369.85 x 1 = ₹369.85
+
+💰 Total: ₹369.85
+
+👤 You: what is total price of shortlisted items
+
+🔄 Turn 6 | User: what is total price of shortlisted items
+🎭 Supervisor analyzing request...
+🎯 Decision: sql_agent
+💭 Reasoning: The user is asking for the total price of shortlisted (cart) items, which is an analytics/FAQ query about pricing. This matches the FAQ/analytics criteria. Search results context is not directly relevant since the query is about the cart's total price, not adding/removing items.
+🔍 Search context: Current=0, Historical=True
+🧾 Running SQL agent for FAQ...
+🤔 Question: what is total price of shortlisted items
+❌ SQL agent error: unsupported format string passed to NoneType.__format__
+
+🤖 Agent: ❌ SQL agent error: unsupported format string passed to NoneType.__format__
+
+👤 You: what is average price of levis tshirts
+
+🔄 Turn 7 | User: what is average price of levis tshirts
+🎭 Supervisor analyzing request...
+🎯 Decision: sql_agent
+💭 Reasoning: The user is asking for the average price of Levi's t-shirts, which is an analytics/FAQ query about catalog statistics. This matches the FAQ/analytics criteria. Search results context is not directly relevant since the question is about overall pricing, not a specific product or cart action.
+🔍 Search context: Current=0, Historical=True
+🧾 Running SQL agent for FAQ...
+🤔 Question: what is average price of levis tshirts
+❌ SQL agent error: unsupported format string passed to NoneType.__format__
+
+🤖 Agent: ❌ SQL agent error: unsupported format string passed to NoneType.__format__
+
+👤 You: what is avergae price of tshirts
+
+🔄 Turn 8 | User: what is avergae price of tshirts
+🎭 Supervisor analyzing request...
+🎯 Decision: sql_agent
+💭 Reasoning: The user is asking for the average price of t-shirts, which is a catalog analytics query. This matches the FAQ/analytics criteria. Although there are no current search results, historical results are available, but the query is about statistics, not a specific product. No safety or out-of-domain concerns detected.
+🔍 Search context: Current=0, Historical=True
+🧾 Running SQL agent for FAQ...
+🤔 Question: what is avergae price of tshirts
+✅ SQL result sent.
+
+🤖 Agent: 📊 what is avergae price of tshirts: ₹1,166.45

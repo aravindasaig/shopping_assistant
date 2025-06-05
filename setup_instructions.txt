@@ -1,0 +1,2 @@
+For rag-api-service please check the README.md inside rag-api-service folder
+For embedding-serve please check README.md in insdie embedding_server folder

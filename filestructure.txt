@@ -1,0 +1,73 @@
+shopping_assistant/
+├── agent.py
+├── config.py
+├── design_time
+│   ├── extract_metadata
+│   │   ├── get_data_tv.py
+│   │   └── get_image_metadata.py
+│   ├── ingestion
+│   │   ├── addtshirts.py
+│   │   ├── addtvs.py
+│   │   └── schema.py
+│   ├── __init__.py
+│   ├── view_prodcuts.py
+│   └── weavaite_ops
+│       ├── search_wev.py
+│       └── weaviate_helper.py
+├── embedding_server
+│   ├── embedding_generator.py
+│   ├── embedding_service.py
+│   ├── logger_config.py
+│   ├── nohup.out
+│   └── res.log
+├── graph.py
+├── __init__.py
+├── main.py
+├── nodes
+│   ├── cart_manager.py
+│   ├── clarification_checker.py
+│   ├── context_stitcher.py
+│   ├── entity_extractor.py
+│   ├── guardrails.py
+│   ├── __init__.py
+│   ├── intent_classifier.py
+│   ├── out_of_domain.py
+│   ├── __pycache__
+│   ├── response_generator.py
+│   ├── small_talk.py
+│   ├── sql_agent.py
+│   ├── supervisor.py
+│   ├── text2sql_agent.py
+│   └── vector_search.py
+├── processed_data
+│   ├── retail.db
+│   ├── tshirt_metadata_golden.json
+│   └── tv_metadata.json
+├── __pycache__
+├── rag-api-service
+│   ├── docker-compose.yml
+│   ├── Dockerfile
+│   ├── logs
+│   ├── README.md
+│   ├── requirements.txt
+│   ├── setup
+│   └── src
+│       ├── config.json
+│       ├── config.py
+│       ├── logging_config.py
+│       ├── main.py
+│       ├── __pycache__
+│       ├── utils.py
+│       ├── weaviate_delete.py
+│       ├── weaviate_query.py
+│       ├── weaviate_read.py
+│       └── weaviate_update.py
+├── schema.py
+├── state.py
+└── utils
+    ├── cart.py
+    ├── embedding.py
+    ├── __init__.py
+    ├── prompts.py
+    ├── __pycache__
+    └── search.py
