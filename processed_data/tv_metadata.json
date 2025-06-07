@@ -1,0 +1,4340 @@
+[
+  {
+    "category": "Electronics",
+    "subcategory": "Televisions",
+    "product_type": "Smart TV",
+    "brand": "Samsung",
+    "screen_size": "unknown",
+    "resolution": "8K",
+    "display_type": "QLED",
+    "smart_tv": "Yes",
+    "os": "unknown",
+    "ports": [
+      "HDMI",
+      "USB",
+      "Ethernet"
+    ],
+    "design": "Bezel-less",
+    "stand_type": "Tabletop",
+    "visual_tags": [
+      "remote visible",
+      "soundbar visible",
+      "subwoofer visible",
+      "bezel-less",
+      "tabletop stand"
+    ],
+    "occlusion": "none",
+    "image_id": "158.jpg",
+    "price_inr": 156801.5
+  },
+  {
+    "category": "Electronics",
+    "subcategory": "Televisions",
+    "product_type": "LED TV",
+    "brand": "TCL",
+    "screen_size": "unknown",
+    "resolution": "unknown",
+    "display_type": "LED",
+    "smart_tv": "No",
+    "os": "unknown",
+    "ports": [],
+    "design": "Classic",
+    "stand_type": "Tabletop",
+    "visual_tags": [
+      "power cord visible"
+    ],
+    "occlusion": "none",
+    "image_id": "111.jpg",
+    "price_inr": 83736.31
+  },
+  {
+    "category": "Electronics",
+    "subcategory": "Televisions",
+    "product_type": "Smart TV",
+    "brand": "Samsung",
+    "screen_size": "unknown",
+    "resolution": "4K",
+    "display_type": "LED",
+    "smart_tv": "Yes",
+    "os": "Tizen",
+    "ports": [
+      "HDMI",
+      "USB",
+      "Ethernet"
+    ],
+    "design": "Bezel-less",
+    "stand_type": "Tabletop",
+    "visual_tags": [
+      "slim bezels"
+    ],
+    "occlusion": "none",
+    "image_id": "75.jpg",
+    "price_inr": 42833.1
+  },
+  {
+    "category": "Electronics",
+    "subcategory": "Televisions",
+    "product_type": "LED TV",
+    "brand": "Samsung",
+    "screen_size": "unknown",
+    "resolution": "unknown",
+    "display_type": "LED",
+    "smart_tv": "unknown",
+    "os": "unknown",
+    "ports": [],
+    "design": "Slim",
+    "stand_type": "Tabletop",
+    "visual_tags": [
+      "slim bezels"
+    ],
+    "occlusion": "none",
+    "image_id": "43.jpg",
+    "price_inr": 115735.49
+  },
+  {
+    "category": "Electronics",
+    "subcategory": "Televisions",
+    "product_type": "Smart TV",
+    "brand": "Samsung",
+    "screen_size": "55 inch",
+    "resolution": "4K",
+    "display_type": "QLED",
+    "smart_tv": "Yes",
+    "os": "Tizen",
+    "ports": [
+      "HDMI",
+      "USB",
+      "Ethernet"
+    ],
+    "design": "Bezel-less",
+    "stand_type": "Tabletop",
+    "visual_tags": [
+      "slim bezels"
+    ],
+    "occlusion": "none",
+    "image_id": "82.jpg",
+    "price_inr": 64610.1
+  },
+  {
+    "category": "Electronics",
+    "subcategory": "Televisions",
+    "product_type": "Smart TV",
+    "brand": "Sony",
+    "screen_size": "55 inch",
+    "resolution": "4K",
+    "display_type": "LED",
+    "smart_tv": "Yes",
+    "os": "Android TV",
+    "ports": [
+      "HDMI",
+      "USB"
+    ],
+    "design": "Bezel-less",
+    "stand_type": "Tabletop",
+    "visual_tags": [
+      "stand visible",
+      "HDMI cable visible",
+      "slim bezels"
+    ],
+    "occlusion": "none",
+    "image_id": "123.jpg",
+    "price_inr": 30598.25
+  },
+  {
+    "category": "Electronics",
+    "subcategory": "Televisions",
+    "product_type": "Smart TV",
+    "brand": "Samsung",
+    "screen_size": "unknown",
+    "resolution": "4K",
+    "display_type": "QLED",
+    "smart_tv": "Yes",
+    "os": "Tizen",
+    "ports": [
+      "HDMI",
+      "USB",
+      "Ethernet"
+    ],
+    "design": "Bezel-less",
+    "stand_type": "Tabletop",
+    "visual_tags": [
+      "remote visible",
+      "slim bezels",
+      "soundbar visible",
+      "subwoofer visible"
+    ],
+    "occlusion": "none",
+    "image_id": "44.jpg",
+    "price_inr": 72585.79
+  },
+  {
+    "category": "Electronics",
+    "subcategory": "Televisions",
+    "product_type": "LED TV",
+    "brand": "Sony",
+    "screen_size": "unknown",
+    "resolution": "unknown",
+    "display_type": "LED",
+    "smart_tv": "unknown",
+    "os": "unknown",
+    "ports": [],
+    "design": "Slim",
+    "stand_type": "Tabletop",
+    "visual_tags": [
+      "slim bezels"
+    ],
+    "occlusion": "none",
+    "image_id": "45.jpg",
+    "price_inr": 121862.49
+  },
+  {
+    "category": "Electronics",
+    "subcategory": "Semiconductors",
+    "product_type": "Integrated Circuit (IC)",
+    "brand": "Hisense",
+    "screen_size": null,
+    "resolution": null,
+    "display_type": null,
+    "smart_tv": null,
+    "os": null,
+    "ports": [],
+    "design": null,
+    "stand_type": null,
+    "visual_tags": [
+      "IC chip",
+      "pins visible",
+      "text on chip"
+    ],
+    "occlusion": "none",
+    "image_id": "100.jpg",
+    "price_inr": 86973.31
+  },
+  {
+    "category": "Electronics",
+    "subcategory": "Lighting",
+    "product_type": "LED Strip Light",
+    "brand": "OnePlus",
+    "screen_size": null,
+    "resolution": null,
+    "display_type": "LED",
+    "smart_tv": null,
+    "os": null,
+    "ports": [],
+    "design": "Flexible Strip",
+    "stand_type": null,
+    "visual_tags": [
+      "multi-color",
+      "coiled",
+      "LEDs visible"
+    ],
+    "occlusion": "none",
+    "image_id": "50.jpg",
+    "price_inr": 90248.88
+  },
+  {
+    "category": "Electronics",
+    "subcategory": "Televisions",
+    "product_type": "unknown",
+    "brand": "Hisense",
+    "screen_size": "unknown",
+    "resolution": "unknown",
+    "display_type": "unknown",
+    "smart_tv": "unknown",
+    "os": "unknown",
+    "ports": [],
+    "design": "unknown",
+    "stand_type": "unknown",
+    "visual_tags": [
+      "remote visible"
+    ],
+    "occlusion": "none",
+    "image_id": "93.jpg",
+    "price_inr": 142094.72
+  },
+  {
+    "category": "Electronics",
+    "subcategory": "Televisions",
+    "product_type": "LED TV",
+    "brand": "Mi",
+    "screen_size": "unknown",
+    "resolution": "unknown",
+    "display_type": "LED",
+    "smart_tv": "unknown",
+    "os": "unknown",
+    "ports": [],
+    "design": "Bezel-less",
+    "stand_type": "Wall-mounted",
+    "visual_tags": [
+      "wall mounted",
+      "slim bezels"
+    ],
+    "occlusion": "none",
+    "image_id": "106.jpg",
+    "price_inr": 89477.0
+  },
+  {
+    "category": "Electronics",
+    "subcategory": "Wall Plates",
+    "product_type": "Coaxial and Ethernet Wall Plate",
+    "brand": "Hisense",
+    "screen_size": null,
+    "resolution": null,
+    "display_type": null,
+    "smart_tv": "No",
+    "os": null,
+    "ports": [
+      "Coaxial",
+      "Ethernet (RJ45)"
+    ],
+    "design": "Classic",
+    "stand_type": null,
+    "visual_tags": [
+      "wall plate",
+      "multiple ports",
+      "angled view"
+    ],
+    "occlusion": "none",
+    "image_id": "72.jpg",
+    "price_inr": 119912.16
+  },
+  {
+    "category": "Electronics",
+    "subcategory": "Televisions",
+    "product_type": "LED TV",
+    "brand": "Philips",
+    "screen_size": "unknown",
+    "resolution": "unknown",
+    "display_type": "LED",
+    "smart_tv": "No",
+    "os": "unknown",
+    "ports": [],
+    "design": "Classic",
+    "stand_type": "Tabletop",
+    "visual_tags": [
+      "slim bezels"
+    ],
+    "occlusion": "none",
+    "image_id": "121.jpg",
+    "price_inr": 71020.7
+  },
+  {
+    "category": "Electronics",
+    "subcategory": "Televisions",
+    "product_type": "Remote Control",
+    "brand": "HUAYU",
+    "screen_size": "unknown",
+    "resolution": "unknown",
+    "display_type": "unknown",
+    "smart_tv": "unknown",
+    "os": "unknown",
+    "ports": [],
+    "design": "Classic",
+    "stand_type": "unknown",
+    "visual_tags": [
+      "remote visible"
+    ],
+    "occlusion": "none",
+    "image_id": "23.jpg",
+    "price_inr": 106838.08
+  },
+  {
+    "category": "Electronics",
+    "subcategory": "Televisions",
+    "product_type": "LED TV",
+    "brand": "Sony",
+    "screen_size": "32 inch",
+    "resolution": "1080p",
+    "display_type": "LED",
+    "smart_tv": "No",
+    "os": "unknown",
+    "ports": [
+      "HDMI",
+      "USB",
+      "AV",
+      "Antenna"
+    ],
+    "design": "Classic",
+    "stand_type": "Tabletop",
+    "visual_tags": [
+      "remote visible",
+      "tabletop stand"
+    ],
+    "occlusion": "none",
+    "image_id": "13.jpg",
+    "price_inr": 50863.77
+  },
+  {
+    "category": "Electronics",
+    "subcategory": "Television Parts",
+    "product_type": "TV Speaker",
+    "brand": "OnePlus",
+    "screen_size": "unknown",
+    "resolution": "unknown",
+    "display_type": "unknown",
+    "smart_tv": "No",
+    "os": "unknown",
+    "ports": [],
+    "design": "unknown",
+    "stand_type": "unknown",
+    "visual_tags": [],
+    "occlusion": "none",
+    "image_id": "55.jpg",
+    "price_inr": 104265.67
+  },
+  {
+    "category": "Electronics",
+    "subcategory": "Televisions",
+    "product_type": "LED TV",
+    "brand": "Samsung",
+    "screen_size": "42 inch",
+    "resolution": "unknown",
+    "display_type": "LED",
+    "smart_tv": "unknown",
+    "os": "unknown",
+    "ports": [],
+    "design": "Slim",
+    "stand_type": "Tabletop",
+    "visual_tags": [
+      "slim bezels"
+    ],
+    "occlusion": "none",
+    "image_id": "125.jpg",
+    "price_inr": 123332.77
+  },
+  {
+    "category": "Electronics",
+    "subcategory": "Televisions",
+    "product_type": "Smart TV",
+    "brand": "Samsung",
+    "screen_size": "55 inch",
+    "resolution": "4K",
+    "display_type": "QLED",
+    "smart_tv": "Yes",
+    "os": "Tizen",
+    "ports": [
+      "HDMI",
+      "USB",
+      "Ethernet"
+    ],
+    "design": "Bezel-less",
+    "stand_type": "Tabletop",
+    "visual_tags": [
+      "slim bezels",
+      "tabletop stand"
+    ],
+    "occlusion": "none",
+    "image_id": "84.jpg",
+    "price_inr": 103046.47
+  },
+  {
+    "category": "Electronics",
+    "subcategory": "Televisions",
+    "product_type": "Smart TV",
+    "brand": "Philips",
+    "screen_size": "unknown",
+    "resolution": "unknown",
+    "display_type": "LED",
+    "smart_tv": "Yes",
+    "os": "unknown",
+    "ports": [],
+    "design": "Slim",
+    "stand_type": "Tabletop",
+    "visual_tags": [
+      "slim bezels"
+    ],
+    "occlusion": "none",
+    "image_id": "176.jpg",
+    "price_inr": 108125.85
+  },
+  {
+    "category": "Electronics",
+    "subcategory": "Televisions",
+    "product_type": "LED TV",
+    "brand": "OnePlus",
+    "screen_size": "unknown",
+    "resolution": "unknown",
+    "display_type": "LED",
+    "smart_tv": "unknown",
+    "os": "unknown",
+    "ports": [],
+    "design": "Bezel-less",
+    "stand_type": "Tabletop",
+    "visual_tags": [
+      "slim bezels"
+    ],
+    "occlusion": "none",
+    "image_id": "124.jpg",
+    "price_inr": 58433.84
+  },
+  {
+    "category": "Electronics",
+    "subcategory": "Televisions",
+    "product_type": "LED TV",
+    "brand": "Hisense",
+    "screen_size": "unknown",
+    "resolution": "unknown",
+    "display_type": "LED",
+    "smart_tv": "unknown",
+    "os": "unknown",
+    "ports": [],
+    "design": "Slim",
+    "stand_type": "unknown",
+    "visual_tags": [
+      "slim bezels"
+    ],
+    "occlusion": "none",
+    "image_id": "7.jpg",
+    "price_inr": 50836.31
+  },
+  {
+    "category": "Electronics",
+    "subcategory": "Televisions",
+    "product_type": "LED TV",
+    "brand": "Philips",
+    "screen_size": "unknown",
+    "resolution": "unknown",
+    "display_type": "LED",
+    "smart_tv": "No",
+    "os": "unknown",
+    "ports": [
+      "HDMI",
+      "USB",
+      "Audio Out",
+      "AV In"
+    ],
+    "design": "Classic",
+    "stand_type": "Tabletop",
+    "visual_tags": [
+      "slim bezels"
+    ],
+    "occlusion": "none",
+    "image_id": "52.jpg",
+    "price_inr": 118793.21
+  },
+  {
+    "category": "Electronics",
+    "subcategory": "Televisions",
+    "product_type": "LED TV",
+    "brand": "OnePlus",
+    "screen_size": "unknown",
+    "resolution": "unknown",
+    "display_type": "LED",
+    "smart_tv": "unknown",
+    "os": "unknown",
+    "ports": [],
+    "design": "Slim",
+    "stand_type": "Tabletop",
+    "visual_tags": [
+      "slim bezels"
+    ],
+    "occlusion": "none",
+    "image_id": "6.jpg",
+    "price_inr": 128211.66
+  },
+  {
+    "category": "Electronics",
+    "subcategory": "Televisions",
+    "product_type": "LED TV",
+    "brand": "SunBriteTV",
+    "screen_size": "unknown",
+    "resolution": "unknown",
+    "display_type": "LED",
+    "smart_tv": "No",
+    "os": "unknown",
+    "ports": [],
+    "design": "Classic",
+    "stand_type": "Wall-mounted",
+    "visual_tags": [
+      "wall mounted",
+      "black bezel"
+    ],
+    "occlusion": "none",
+    "image_id": "4.jpg",
+    "price_inr": 158881.27
+  },
+  {
+    "category": "Electronics",
+    "subcategory": "Televisions",
+    "product_type": "LED TV",
+    "brand": "Samsung",
+    "screen_size": "unknown",
+    "resolution": "unknown",
+    "display_type": "LED",
+    "smart_tv": "No",
+    "os": "unknown",
+    "ports": [],
+    "design": "Classic",
+    "stand_type": "Tabletop",
+    "visual_tags": [
+      "slim bezels"
+    ],
+    "occlusion": "none",
+    "image_id": "153.jpg",
+    "price_inr": 32673.4
+  },
+  {
+    "category": "Electronics",
+    "subcategory": "Televisions",
+    "product_type": "LED TV Backlight Strips",
+    "brand": "Vizio",
+    "screen_size": "unknown",
+    "resolution": "unknown",
+    "display_type": "LED",
+    "smart_tv": "No",
+    "os": "unknown",
+    "ports": [],
+    "design": "unknown",
+    "stand_type": "unknown",
+    "visual_tags": [],
+    "occlusion": "none",
+    "image_id": "66.jpg",
+    "price_inr": 158685.4
+  },
+  {
+    "category": "Electronics",
+    "subcategory": "Televisions",
+    "product_type": "LED TV",
+    "brand": "Vizio",
+    "screen_size": "unknown",
+    "resolution": "unknown",
+    "display_type": "LED",
+    "smart_tv": "unknown",
+    "os": "unknown",
+    "ports": [],
+    "design": "Slim",
+    "stand_type": "Tabletop",
+    "visual_tags": [
+      "slim bezels"
+    ],
+    "occlusion": "none",
+    "image_id": "91.jpg",
+    "price_inr": 132158.89
+  },
+  {
+    "category": "Electronics",
+    "subcategory": "Televisions",
+    "product_type": "Smart TV",
+    "brand": "Samsung",
+    "screen_size": "unknown",
+    "resolution": "4K",
+    "display_type": "QLED",
+    "smart_tv": "Yes",
+    "os": "unknown",
+    "ports": [
+      "HDMI",
+      "USB",
+      "Ethernet"
+    ],
+    "design": "Bezel-less",
+    "stand_type": "Tabletop",
+    "visual_tags": [
+      "soundbar visible",
+      "subwoofer visible",
+      "bezel-less",
+      "tabletop stand"
+    ],
+    "occlusion": "none",
+    "image_id": "173.jpg",
+    "price_inr": 20033.65
+  },
+  {
+    "category": "Electronics",
+    "subcategory": "Televisions",
+    "product_type": "Smart TV",
+    "brand": "Samsung",
+    "screen_size": "unknown",
+    "resolution": "4K",
+    "display_type": "LED",
+    "smart_tv": "Yes",
+    "os": "Tizen",
+    "ports": [
+      "HDMI",
+      "USB",
+      "Ethernet"
+    ],
+    "design": "Bezel-less",
+    "stand_type": "Tabletop",
+    "visual_tags": [
+      "wall mount kit visible",
+      "power strip visible",
+      "streaming service cards visible",
+      "slim bezels"
+    ],
+    "occlusion": "none",
+    "image_id": "162.jpg",
+    "price_inr": 44026.45
+  },
+  {
+    "category": "Electronics",
+    "subcategory": "Televisions",
+    "product_type": "LED TV",
+    "brand": "Panasonic",
+    "screen_size": "unknown",
+    "resolution": "unknown",
+    "display_type": "LED",
+    "smart_tv": "unknown",
+    "os": "unknown",
+    "ports": [],
+    "design": "Bezel-less",
+    "stand_type": "Tabletop",
+    "visual_tags": [
+      "slim bezels"
+    ],
+    "occlusion": "none",
+    "image_id": "120.jpg",
+    "price_inr": 54528.55
+  },
+  {
+    "category": "Electronics",
+    "subcategory": "Televisions",
+    "product_type": "LED TV",
+    "brand": "Samsung",
+    "screen_size": "unknown",
+    "resolution": "unknown",
+    "display_type": "LED",
+    "smart_tv": "No",
+    "os": "unknown",
+    "ports": [],
+    "design": "Classic",
+    "stand_type": "Tabletop",
+    "visual_tags": [
+      "slim bezels"
+    ],
+    "occlusion": "none",
+    "image_id": "102.jpg",
+    "price_inr": 121931.94
+  },
+  {
+    "category": "Electronics",
+    "subcategory": "Televisions",
+    "product_type": "Smart TV",
+    "brand": "Vizio",
+    "screen_size": "55 inch",
+    "resolution": "4K",
+    "display_type": "LED",
+    "smart_tv": "Yes",
+    "os": "unknown",
+    "ports": [
+      "HDMI",
+      "USB",
+      "Ethernet"
+    ],
+    "design": "Bezel-less",
+    "stand_type": "Tabletop",
+    "visual_tags": [
+      "slim bezels",
+      "tabletop stand"
+    ],
+    "occlusion": "partial",
+    "image_id": "182.jpg",
+    "price_inr": 79958.1
+  },
+  {
+    "category": "Electronics",
+    "subcategory": "Televisions",
+    "product_type": "LED TV",
+    "brand": "OnePlus",
+    "screen_size": "32 inch",
+    "resolution": "1080p",
+    "display_type": "LED",
+    "smart_tv": "No",
+    "os": "unknown",
+    "ports": [],
+    "design": "Classic",
+    "stand_type": "Tabletop",
+    "visual_tags": [
+      "slim bezels"
+    ],
+    "occlusion": "none",
+    "image_id": "34.jpg",
+    "price_inr": 125031.43
+  },
+  {
+    "category": "Electronics",
+    "subcategory": "Televisions",
+    "product_type": "Smart TV",
+    "brand": "Samsung",
+    "screen_size": "unknown",
+    "resolution": "4K",
+    "display_type": "LED",
+    "smart_tv": "Yes",
+    "os": "Tizen",
+    "ports": [
+      "HDMI",
+      "USB"
+    ],
+    "design": "Bezel-less",
+    "stand_type": "Tabletop",
+    "visual_tags": [
+      "soundbar visible",
+      "subwoofer visible",
+      "accessories visible",
+      "slim bezels"
+    ],
+    "occlusion": "none",
+    "image_id": "195.jpg",
+    "price_inr": 136369.86
+  },
+  {
+    "category": "Electronics",
+    "subcategory": "Televisions",
+    "product_type": "Curved TV",
+    "brand": "LG",
+    "screen_size": "unknown",
+    "resolution": "unknown",
+    "display_type": "LED",
+    "smart_tv": "unknown",
+    "os": "unknown",
+    "ports": [],
+    "design": "Bezel-less",
+    "stand_type": "Tabletop",
+    "visual_tags": [
+      "curved display",
+      "slim bezels",
+      "tabletop stand"
+    ],
+    "occlusion": "none",
+    "image_id": "31.jpg",
+    "price_inr": 71439.69
+  },
+  {
+    "category": "Electronics",
+    "subcategory": "Televisions",
+    "product_type": "LED TV",
+    "brand": "Mi",
+    "screen_size": "42 inch",
+    "resolution": "unknown",
+    "display_type": "LED",
+    "smart_tv": "unknown",
+    "os": "unknown",
+    "ports": [],
+    "design": "Slim",
+    "stand_type": "Tabletop",
+    "visual_tags": [
+      "slim bezels"
+    ],
+    "occlusion": "none",
+    "image_id": "25.jpg",
+    "price_inr": 49414.12
+  },
+  {
+    "category": "Electronics",
+    "subcategory": "Televisions",
+    "product_type": "LED Backlight Strip",
+    "brand": "Philips",
+    "screen_size": "unknown",
+    "resolution": "unknown",
+    "display_type": "LED",
+    "smart_tv": "No",
+    "os": "unknown",
+    "ports": [],
+    "design": "unknown",
+    "stand_type": "unknown",
+    "visual_tags": [],
+    "occlusion": "none",
+    "image_id": "96.jpg",
+    "price_inr": 82104.83
+  },
+  {
+    "category": "Electronics",
+    "subcategory": "Televisions",
+    "product_type": "LED TV",
+    "brand": "TCL",
+    "screen_size": "unknown",
+    "resolution": "unknown",
+    "display_type": "LED",
+    "smart_tv": "No",
+    "os": "unknown",
+    "ports": [],
+    "design": "Classic",
+    "stand_type": "Tabletop",
+    "visual_tags": [
+      "slim bezels"
+    ],
+    "occlusion": "none",
+    "image_id": "155.jpg",
+    "price_inr": 81444.97
+  },
+  {
+    "category": "Electronics",
+    "subcategory": "Televisions",
+    "product_type": "Smart TV",
+    "brand": "Sealoc",
+    "screen_size": "unknown",
+    "resolution": "4K UHD",
+    "display_type": "LED",
+    "smart_tv": "Yes",
+    "os": "unknown",
+    "ports": [],
+    "design": "Bezel-less",
+    "stand_type": "unknown",
+    "visual_tags": [
+      "slim bezels"
+    ],
+    "occlusion": "none",
+    "image_id": "57.jpg",
+    "price_inr": 52575.18
+  },
+  {
+    "category": "Electronics",
+    "subcategory": "Televisions",
+    "product_type": "Smart TV",
+    "brand": "Samsung",
+    "screen_size": "unknown",
+    "resolution": "unknown",
+    "display_type": "unknown",
+    "smart_tv": "Yes",
+    "os": "unknown",
+    "ports": [],
+    "design": "unknown",
+    "stand_type": "unknown",
+    "visual_tags": [
+      "remote visible"
+    ],
+    "occlusion": "none",
+    "image_id": "22.jpg",
+    "price_inr": 139680.9
+  },
+  {
+    "category": "Electronics",
+    "subcategory": "Televisions",
+    "product_type": "LED TV",
+    "brand": "OnePlus",
+    "screen_size": "unknown",
+    "resolution": "unknown",
+    "display_type": "LED",
+    "smart_tv": "unknown",
+    "os": "unknown",
+    "ports": [
+      "HDMI",
+      "Ethernet"
+    ],
+    "design": "Curved",
+    "stand_type": "Wall-mounted",
+    "visual_tags": [
+      "remote visible",
+      "wall mount kit visible",
+      "curved screen"
+    ],
+    "occlusion": "none",
+    "image_id": "5.jpg",
+    "price_inr": 69848.1
+  },
+  {
+    "category": "Electronics",
+    "subcategory": "Televisions",
+    "product_type": "Smart TV",
+    "brand": "TCL",
+    "screen_size": "unknown",
+    "resolution": "4K",
+    "display_type": "LED",
+    "smart_tv": "Yes",
+    "os": "Roku TV",
+    "ports": [
+      "HDMI",
+      "USB",
+      "Ethernet"
+    ],
+    "design": "Bezel-less",
+    "stand_type": "Tabletop",
+    "visual_tags": [
+      "slim bezels"
+    ],
+    "occlusion": "none",
+    "image_id": "114.jpg",
+    "price_inr": 114622.92
+  },
+  {
+    "category": "Electronics",
+    "subcategory": "Televisions",
+    "product_type": "Smart TV",
+    "brand": "Sony",
+    "screen_size": "unknown",
+    "resolution": "unknown",
+    "display_type": "OLED",
+    "smart_tv": "Yes",
+    "os": "unknown",
+    "ports": [
+      "HDMI"
+    ],
+    "design": "Bezel-less",
+    "stand_type": "Tabletop",
+    "visual_tags": [
+      "soundbar visible",
+      "subwoofer visible",
+      "bezel-less design"
+    ],
+    "occlusion": "none",
+    "image_id": "138.jpg",
+    "price_inr": 69763.74
+  },
+  {
+    "category": "Electronics",
+    "subcategory": "Televisions",
+    "product_type": "unknown",
+    "brand": "TCL",
+    "screen_size": "unknown",
+    "resolution": "unknown",
+    "display_type": "unknown",
+    "smart_tv": "No",
+    "os": "unknown",
+    "ports": [],
+    "design": "Classic",
+    "stand_type": "unknown",
+    "visual_tags": [],
+    "occlusion": "none",
+    "image_id": "69.jpg",
+    "price_inr": 88361.69
+  },
+  {
+    "category": "Electronics",
+    "subcategory": "Televisions",
+    "product_type": "TV Stand Legs",
+    "brand": "LG",
+    "screen_size": "unknown",
+    "resolution": "unknown",
+    "display_type": "unknown",
+    "smart_tv": "No",
+    "os": "unknown",
+    "ports": [],
+    "design": "unknown",
+    "stand_type": "Tabletop",
+    "visual_tags": [
+      "stand legs visible"
+    ],
+    "occlusion": "none",
+    "image_id": "163.jpg",
+    "price_inr": 15682.08
+  },
+  {
+    "category": "Electronics",
+    "subcategory": "Televisions",
+    "product_type": "LED TV",
+    "brand": "LG",
+    "screen_size": "unknown",
+    "resolution": "unknown",
+    "display_type": "LED",
+    "smart_tv": "unknown",
+    "os": "unknown",
+    "ports": [],
+    "design": "Bezel-less",
+    "stand_type": "Tabletop",
+    "visual_tags": [
+      "slim bezels"
+    ],
+    "occlusion": "none",
+    "image_id": "132.jpg",
+    "price_inr": 16750.22
+  },
+  {
+    "category": "Electronics",
+    "subcategory": "Televisions",
+    "product_type": "LED TV",
+    "brand": "Hisense",
+    "screen_size": "55 inch",
+    "resolution": "4K",
+    "display_type": "LED",
+    "smart_tv": "Yes",
+    "os": "unknown",
+    "ports": [
+      "HDMI",
+      "USB"
+    ],
+    "design": "Bezel-less",
+    "stand_type": "Tabletop",
+    "visual_tags": [
+      "slim bezels",
+      "tabletop stand"
+    ],
+    "occlusion": "none",
+    "image_id": "39.jpg",
+    "price_inr": 120477.74
+  },
+  {
+    "category": "Electronics",
+    "subcategory": "Televisions",
+    "product_type": "Smart TV",
+    "brand": "Samsung",
+    "screen_size": "unknown",
+    "resolution": "4K",
+    "display_type": "LED",
+    "smart_tv": "Yes",
+    "os": "unknown",
+    "ports": [],
+    "design": "Slim",
+    "stand_type": "Tabletop",
+    "visual_tags": [
+      "slim bezels"
+    ],
+    "occlusion": "none",
+    "image_id": "3.jpg",
+    "price_inr": 28278.69
+  },
+  {
+    "category": "Electronics",
+    "subcategory": "Televisions",
+    "product_type": "LED TV",
+    "brand": "Hisense",
+    "screen_size": "unknown",
+    "resolution": "unknown",
+    "display_type": "LED",
+    "smart_tv": "unknown",
+    "os": "unknown",
+    "ports": [],
+    "design": "Slim",
+    "stand_type": "Tabletop",
+    "visual_tags": [
+      "slim bezels"
+    ],
+    "occlusion": "none",
+    "image_id": "119.jpg",
+    "price_inr": 108947.56
+  },
+  {
+    "category": "Electronics",
+    "subcategory": "Televisions",
+    "product_type": "LED TV",
+    "brand": "Panasonic",
+    "screen_size": "unknown",
+    "resolution": "unknown",
+    "display_type": "LED",
+    "smart_tv": "unknown",
+    "os": "unknown",
+    "ports": [],
+    "design": "Slim",
+    "stand_type": "Tabletop",
+    "visual_tags": [
+      "slim bezels"
+    ],
+    "occlusion": "none",
+    "image_id": "131.jpg",
+    "price_inr": 126948.2
+  },
+  {
+    "category": "Electronics",
+    "subcategory": "Televisions",
+    "product_type": "Smart TV",
+    "brand": "Sony",
+    "screen_size": "unknown",
+    "resolution": "unknown",
+    "display_type": "LED",
+    "smart_tv": "Yes",
+    "os": "unknown",
+    "ports": [],
+    "design": "Bezel-less",
+    "stand_type": "Tabletop",
+    "visual_tags": [
+      "slim bezels"
+    ],
+    "occlusion": "none",
+    "image_id": "126.jpg",
+    "price_inr": 114856.28
+  },
+  {
+    "category": "Electronics",
+    "subcategory": "Televisions",
+    "product_type": "Smart TV",
+    "brand": "Sony",
+    "screen_size": "unknown",
+    "resolution": "unknown",
+    "display_type": "OLED",
+    "smart_tv": "Yes",
+    "os": "unknown",
+    "ports": [
+      "HDMI"
+    ],
+    "design": "Bezel-less",
+    "stand_type": "Tabletop",
+    "visual_tags": [
+      "slim bezels",
+      "soundbar visible"
+    ],
+    "occlusion": "none",
+    "image_id": "110.jpg",
+    "price_inr": 102047.76
+  },
+  {
+    "category": "Electronics",
+    "subcategory": "Televisions",
+    "product_type": "Curved TV",
+    "brand": "LG",
+    "screen_size": "unknown",
+    "resolution": "unknown",
+    "display_type": "LED",
+    "smart_tv": "unknown",
+    "os": "unknown",
+    "ports": [],
+    "design": "Curved, Slim",
+    "stand_type": "Tabletop",
+    "visual_tags": [
+      "slim bezels",
+      "curved screen",
+      "no remote visible",
+      "tabletop stand"
+    ],
+    "occlusion": "none",
+    "image_id": "29.jpg",
+    "price_inr": 35634.84
+  },
+  {
+    "category": "Electronics",
+    "subcategory": "Televisions",
+    "product_type": "Smart TV",
+    "brand": "LG",
+    "screen_size": "unknown",
+    "resolution": "unknown",
+    "display_type": "LED",
+    "smart_tv": "Yes",
+    "os": "unknown",
+    "ports": [],
+    "design": "Bezel-less",
+    "stand_type": "Tabletop",
+    "visual_tags": [
+      "slim bezels"
+    ],
+    "occlusion": "none",
+    "image_id": "187.jpg",
+    "price_inr": 49907.81
+  },
+  {
+    "category": "Electronics",
+    "subcategory": "Televisions",
+    "product_type": "LED TV",
+    "brand": "AKAI",
+    "screen_size": "unknown",
+    "resolution": "unknown",
+    "display_type": "LED",
+    "smart_tv": "No",
+    "os": "unknown",
+    "ports": [],
+    "design": "Classic",
+    "stand_type": "Tabletop",
+    "visual_tags": [
+      "remote visible"
+    ],
+    "occlusion": "none",
+    "image_id": "56.jpg",
+    "price_inr": 34300.49
+  },
+  {
+    "category": "Electronics",
+    "subcategory": "Televisions",
+    "product_type": "Remote Control",
+    "brand": "Vizio",
+    "screen_size": "unknown",
+    "resolution": "unknown",
+    "display_type": "unknown",
+    "smart_tv": "unknown",
+    "os": "unknown",
+    "ports": [],
+    "design": "Classic",
+    "stand_type": "unknown",
+    "visual_tags": [
+      "remote visible"
+    ],
+    "occlusion": "none",
+    "image_id": "18.jpg",
+    "price_inr": 143776.92
+  },
+  {
+    "category": "Electronics",
+    "subcategory": "Television Parts",
+    "product_type": "LED Backlight Strips",
+    "brand": "Samsung",
+    "screen_size": "unknown",
+    "resolution": "unknown",
+    "display_type": "LED",
+    "smart_tv": "No",
+    "os": "unknown",
+    "ports": [],
+    "design": "unknown",
+    "stand_type": "unknown",
+    "visual_tags": [],
+    "occlusion": "none",
+    "image_id": "98.jpg",
+    "price_inr": 119509.12
+  },
+  {
+    "category": "Electronics",
+    "subcategory": "Televisions",
+    "product_type": "LED TV",
+    "brand": "LG",
+    "screen_size": "unknown",
+    "resolution": "unknown",
+    "display_type": "LED",
+    "smart_tv": "unknown",
+    "os": "unknown",
+    "ports": [],
+    "design": "Slim",
+    "stand_type": "Tabletop",
+    "visual_tags": [
+      "slim bezels"
+    ],
+    "occlusion": "none",
+    "image_id": "113.jpg",
+    "price_inr": 61864.97
+  },
+  {
+    "category": "Electronics",
+    "subcategory": "Televisions",
+    "product_type": "Remote Control",
+    "brand": "Philips",
+    "screen_size": "unknown",
+    "resolution": "unknown",
+    "display_type": "unknown",
+    "smart_tv": "unknown",
+    "os": "unknown",
+    "ports": [],
+    "design": "unknown",
+    "stand_type": "unknown",
+    "visual_tags": [
+      "remote visible"
+    ],
+    "occlusion": "none",
+    "image_id": "89.jpg",
+    "price_inr": 38820.2
+  },
+  {
+    "category": "Electronics",
+    "subcategory": "Televisions",
+    "product_type": "LED TV",
+    "brand": "Hisense",
+    "screen_size": "unknown",
+    "resolution": "unknown",
+    "display_type": "LED",
+    "smart_tv": "unknown",
+    "os": "unknown",
+    "ports": [],
+    "design": "Slim",
+    "stand_type": "Tabletop",
+    "visual_tags": [
+      "slim bezels"
+    ],
+    "occlusion": "none",
+    "image_id": "30.jpg",
+    "price_inr": 29403.76
+  },
+  {
+    "category": "Electronics",
+    "subcategory": "Televisions",
+    "product_type": "Remote Control",
+    "brand": "TCL",
+    "screen_size": "unknown",
+    "resolution": "unknown",
+    "display_type": "unknown",
+    "smart_tv": "unknown",
+    "os": "unknown",
+    "ports": [],
+    "design": "Classic",
+    "stand_type": "unknown",
+    "visual_tags": [
+      "remote visible"
+    ],
+    "occlusion": "none",
+    "image_id": "20.jpg",
+    "price_inr": 91138.81
+  },
+  {
+    "category": "Electronics",
+    "subcategory": "Televisions",
+    "product_type": "LED TV",
+    "brand": "Samsung",
+    "screen_size": "unknown",
+    "resolution": "unknown",
+    "display_type": "LED",
+    "smart_tv": "unknown",
+    "os": "unknown",
+    "ports": [],
+    "design": "Slim",
+    "stand_type": "Tabletop",
+    "visual_tags": [
+      "slim bezels"
+    ],
+    "occlusion": "none",
+    "image_id": "130.jpg",
+    "price_inr": 32103.45
+  },
+  {
+    "category": "Electronics",
+    "subcategory": "Televisions",
+    "product_type": "Smart TV",
+    "brand": "OnePlus",
+    "screen_size": "unknown",
+    "resolution": "unknown",
+    "display_type": "LED",
+    "smart_tv": "Yes",
+    "os": "unknown",
+    "ports": [],
+    "design": "Bezel-less",
+    "stand_type": "Wall-mounted",
+    "visual_tags": [
+      "wall mounted",
+      "slim bezels"
+    ],
+    "occlusion": "none",
+    "image_id": "15.jpg",
+    "price_inr": 70654.55
+  },
+  {
+    "category": "Electronics",
+    "subcategory": "Televisions",
+    "product_type": "Video Wall TV",
+    "brand": "Hisense",
+    "screen_size": "unknown",
+    "resolution": "4K",
+    "display_type": "LED",
+    "smart_tv": "No",
+    "os": "unknown",
+    "ports": [
+      "unknown"
+    ],
+    "design": "Bezel-less",
+    "stand_type": "Wall-mounted",
+    "visual_tags": [
+      "remote visible",
+      "wall mounted",
+      "slim bezels",
+      "video wall controller visible"
+    ],
+    "occlusion": "none",
+    "image_id": "85.jpg",
+    "price_inr": 158303.16
+  },
+  {
+    "category": "Electronics",
+    "subcategory": "Televisions",
+    "product_type": "Smart TV",
+    "brand": "Sony",
+    "screen_size": "unknown",
+    "resolution": "unknown",
+    "display_type": "OLED",
+    "smart_tv": "Yes",
+    "os": "unknown",
+    "ports": [
+      "HDMI"
+    ],
+    "design": "Bezel-less",
+    "stand_type": "Tabletop",
+    "visual_tags": [
+      "soundbar visible",
+      "subwoofer visible",
+      "bezel-less design",
+      "tabletop stand"
+    ],
+    "occlusion": "none",
+    "image_id": "143.jpg",
+    "price_inr": 144377.45
+  },
+  {
+    "category": "Electronics",
+    "subcategory": "Televisions",
+    "product_type": "Curved TV",
+    "brand": "TCL",
+    "screen_size": "unknown",
+    "resolution": "unknown",
+    "display_type": "LED",
+    "smart_tv": "unknown",
+    "os": "unknown",
+    "ports": [],
+    "design": "Curved, Slim",
+    "stand_type": "Tabletop",
+    "visual_tags": [
+      "curved display",
+      "slim bezels",
+      "tabletop stand"
+    ],
+    "occlusion": "none",
+    "image_id": "61.jpg",
+    "price_inr": 25780.48
+  },
+  {
+    "category": "Electronics",
+    "subcategory": "Televisions",
+    "product_type": "Smart TV",
+    "brand": "Hisense",
+    "screen_size": "unknown",
+    "resolution": "unknown",
+    "display_type": "unknown",
+    "smart_tv": "Yes",
+    "os": "unknown",
+    "ports": [],
+    "design": "Bezel-less",
+    "stand_type": "Tabletop",
+    "visual_tags": [
+      "slim bezels"
+    ],
+    "occlusion": "none",
+    "image_id": "179.jpg",
+    "price_inr": 153490.69
+  },
+  {
+    "category": "Electronics",
+    "subcategory": "Televisions",
+    "product_type": "Curved TV",
+    "brand": "Hisense",
+    "screen_size": "unknown",
+    "resolution": "unknown",
+    "display_type": "LED",
+    "smart_tv": "unknown",
+    "os": "unknown",
+    "ports": [],
+    "design": "Curved, Slim Bezels",
+    "stand_type": "Tabletop",
+    "visual_tags": [
+      "curved screen",
+      "slim bezels",
+      "tabletop stand"
+    ],
+    "occlusion": "none",
+    "image_id": "46.jpg",
+    "price_inr": 66759.7
+  },
+  {
+    "category": "Electronics",
+    "subcategory": "Televisions",
+    "product_type": "Smart TV",
+    "brand": "Samsung",
+    "screen_size": "unknown",
+    "resolution": "unknown",
+    "display_type": "QLED",
+    "smart_tv": "Yes",
+    "os": "unknown",
+    "ports": [],
+    "design": "Bezel-less",
+    "stand_type": "Tabletop",
+    "visual_tags": [
+      "slim bezels"
+    ],
+    "occlusion": "none",
+    "image_id": "190.jpg",
+    "price_inr": 31101.47
+  },
+  {
+    "category": "Electronics",
+    "subcategory": "Televisions",
+    "product_type": "Smart TV",
+    "brand": "Samsung",
+    "screen_size": "unknown",
+    "resolution": "unknown",
+    "display_type": "QLED",
+    "smart_tv": "Yes",
+    "os": "unknown",
+    "ports": [],
+    "design": "Slim",
+    "stand_type": "Tabletop",
+    "visual_tags": [
+      "remote visible",
+      "slim bezels",
+      "soundbar visible",
+      "subwoofer visible"
+    ],
+    "occlusion": "none",
+    "image_id": "193.jpg",
+    "price_inr": 123267.62
+  },
+  {
+    "category": "Electronics",
+    "subcategory": "Televisions",
+    "product_type": "Smart TV",
+    "brand": "TCL",
+    "screen_size": "unknown",
+    "resolution": "unknown",
+    "display_type": "QLED",
+    "smart_tv": "Yes",
+    "os": "unknown",
+    "ports": [],
+    "design": "Bezel-less",
+    "stand_type": "Tabletop",
+    "visual_tags": [
+      "soundbar visible",
+      "bezel-less",
+      "tabletop stand"
+    ],
+    "occlusion": "none",
+    "image_id": "171.jpg",
+    "price_inr": 39521.23
+  },
+  {
+    "category": "Electronics",
+    "subcategory": "Semiconductors",
+    "product_type": "Integrated Circuit",
+    "brand": "Hisense",
+    "screen_size": null,
+    "resolution": null,
+    "display_type": null,
+    "smart_tv": null,
+    "os": null,
+    "ports": null,
+    "design": null,
+    "stand_type": null,
+    "visual_tags": [],
+    "occlusion": "none",
+    "image_id": "108.jpg",
+    "price_inr": 153882.71
+  },
+  {
+    "category": "Electronics",
+    "subcategory": "Televisions",
+    "product_type": "LED TV",
+    "brand": "LG",
+    "screen_size": "unknown",
+    "resolution": "unknown",
+    "display_type": "LED",
+    "smart_tv": "unknown",
+    "os": "unknown",
+    "ports": [],
+    "design": "Curved",
+    "stand_type": "Tabletop",
+    "visual_tags": [
+      "slim bezels"
+    ],
+    "occlusion": "none",
+    "image_id": "134.jpg",
+    "price_inr": 120808.57
+  },
+  {
+    "category": "Electronics",
+    "subcategory": "Televisions",
+    "product_type": "LED TV",
+    "brand": "Sony",
+    "screen_size": "unknown",
+    "resolution": "unknown",
+    "display_type": "LED",
+    "smart_tv": "No",
+    "os": "unknown",
+    "ports": [],
+    "design": "Classic",
+    "stand_type": "Tabletop",
+    "visual_tags": [
+      "slim bezels"
+    ],
+    "occlusion": "none",
+    "image_id": "157.jpg",
+    "price_inr": 44160.46
+  },
+  {
+    "category": "Electronics",
+    "subcategory": "Televisions",
+    "product_type": "LED TV",
+    "brand": "LG",
+    "screen_size": "approximately 55 inch",
+    "resolution": "unknown",
+    "display_type": "LED",
+    "smart_tv": "unknown",
+    "os": "unknown",
+    "ports": [],
+    "design": "Slim",
+    "stand_type": "Mobile cart",
+    "visual_tags": [
+      "stand with wheels",
+      "laptop visible",
+      "slim bezels",
+      "not wall mounted"
+    ],
+    "occlusion": "none",
+    "image_id": "26.jpg",
+    "price_inr": 89706.44
+  },
+  {
+    "category": "Electronics",
+    "subcategory": "Components",
+    "product_type": "Fluorescent Lamp Holder",
+    "brand": "Panasonic",
+    "screen_size": null,
+    "resolution": null,
+    "display_type": null,
+    "smart_tv": "No",
+    "os": null,
+    "ports": [],
+    "design": "Classic",
+    "stand_type": null,
+    "visual_tags": [],
+    "occlusion": "none",
+    "image_id": "79.jpg",
+    "price_inr": 88636.64
+  },
+  {
+    "category": "Electronics",
+    "subcategory": "Televisions",
+    "product_type": "Smart TV",
+    "brand": "LG",
+    "screen_size": "unknown",
+    "resolution": "unknown",
+    "display_type": "OLED",
+    "smart_tv": "Yes",
+    "os": "unknown",
+    "ports": [],
+    "design": "Bezel-less",
+    "stand_type": "Tabletop",
+    "visual_tags": [
+      "slim bezels"
+    ],
+    "occlusion": "none",
+    "image_id": "174.jpg",
+    "price_inr": 16958.38
+  },
+  {
+    "category": "Electronics",
+    "subcategory": "Television Parts",
+    "product_type": "LED Backlight Strip",
+    "brand": "Hisense",
+    "screen_size": "unknown",
+    "resolution": "unknown",
+    "display_type": "LED",
+    "smart_tv": "No",
+    "os": "unknown",
+    "ports": [],
+    "design": "unknown",
+    "stand_type": "unknown",
+    "visual_tags": [],
+    "occlusion": "none",
+    "image_id": "191.jpg",
+    "price_inr": 66195.55
+  },
+  {
+    "category": "Electronics",
+    "subcategory": "Televisions",
+    "product_type": "Smart TV",
+    "brand": "LG",
+    "screen_size": "unknown",
+    "resolution": "unknown",
+    "display_type": "OLED",
+    "smart_tv": "Yes",
+    "os": "unknown",
+    "ports": [],
+    "design": "Bezel-less",
+    "stand_type": "Tabletop",
+    "visual_tags": [
+      "slim bezels"
+    ],
+    "occlusion": "none",
+    "image_id": "189.jpg",
+    "price_inr": 137943.23
+  },
+  {
+    "category": "Electronics",
+    "subcategory": "Televisions",
+    "product_type": "Smart TV",
+    "brand": "Samsung",
+    "screen_size": "65 inch",
+    "resolution": "4K",
+    "display_type": "LED",
+    "smart_tv": "Yes",
+    "os": "Tizen",
+    "ports": [
+      "HDMI",
+      "USB",
+      "Ethernet"
+    ],
+    "design": "Bezel-less",
+    "stand_type": "Tabletop",
+    "visual_tags": [
+      "remote visible",
+      "soundbar visible",
+      "subwoofer visible",
+      "slim bezels"
+    ],
+    "occlusion": "none",
+    "image_id": "141.jpg",
+    "price_inr": 81970.33
+  },
+  {
+    "category": "Electronics",
+    "subcategory": "Televisions",
+    "product_type": "LED TV",
+    "brand": "LG",
+    "screen_size": "42 inch",
+    "resolution": "unknown",
+    "display_type": "LED",
+    "smart_tv": "unknown",
+    "os": "unknown",
+    "ports": [],
+    "design": "Slim",
+    "stand_type": "Tabletop",
+    "visual_tags": [
+      "slim bezels"
+    ],
+    "occlusion": "none",
+    "image_id": "24.jpg",
+    "price_inr": 18561.75
+  },
+  {
+    "category": "Electronics",
+    "subcategory": "Televisions",
+    "product_type": "LED TV",
+    "brand": "Philips",
+    "screen_size": "unknown",
+    "resolution": "unknown",
+    "display_type": "LED",
+    "smart_tv": "No",
+    "os": "unknown",
+    "ports": [],
+    "design": "Classic",
+    "stand_type": "Tabletop",
+    "visual_tags": [
+      "tabletop stand",
+      "classic bezels"
+    ],
+    "occlusion": "none",
+    "image_id": "11.jpg",
+    "price_inr": 65704.22
+  },
+  {
+    "category": "Electronics",
+    "subcategory": "Televisions",
+    "product_type": "Smart TV",
+    "brand": "Panasonic",
+    "screen_size": "unknown",
+    "resolution": "unknown",
+    "display_type": "unknown",
+    "smart_tv": "Yes",
+    "os": "unknown",
+    "ports": [],
+    "design": "Bezel-less",
+    "stand_type": "Wall-mounted",
+    "visual_tags": [
+      "wall mount bracket visible",
+      "cleaning spray visible",
+      "bezel-less design"
+    ],
+    "occlusion": "none",
+    "image_id": "160.jpg",
+    "price_inr": 122970.41
+  },
+  {
+    "category": "Electronics",
+    "subcategory": "Televisions",
+    "product_type": "LED TV",
+    "brand": "Vizio",
+    "screen_size": "unknown",
+    "resolution": "unknown",
+    "display_type": "LED",
+    "smart_tv": "No",
+    "os": "unknown",
+    "ports": [],
+    "design": "Classic",
+    "stand_type": "Tabletop",
+    "visual_tags": [
+      "slim bezels"
+    ],
+    "occlusion": "none",
+    "image_id": "32.jpg",
+    "price_inr": 147662.05
+  },
+  {
+    "category": "Electronics",
+    "subcategory": "Televisions",
+    "product_type": "Smart TV",
+    "brand": "Kalley",
+    "screen_size": "unknown",
+    "resolution": "unknown",
+    "display_type": "LED",
+    "smart_tv": "Yes",
+    "os": "unknown",
+    "ports": [],
+    "design": "Slim",
+    "stand_type": "Tabletop",
+    "visual_tags": [
+      "apps visible",
+      "slim bezels",
+      "tabletop stand"
+    ],
+    "occlusion": "none",
+    "image_id": "165.jpg",
+    "price_inr": 78678.27
+  },
+  {
+    "category": "Electronics",
+    "subcategory": "Televisions",
+    "product_type": "Smart TV",
+    "brand": "Vizio",
+    "screen_size": "unknown",
+    "resolution": "unknown",
+    "display_type": "LED",
+    "smart_tv": "Yes",
+    "os": "unknown",
+    "ports": [
+      "HDMI",
+      "USB",
+      "Ethernet"
+    ],
+    "design": "Slim",
+    "stand_type": "Tabletop",
+    "visual_tags": [
+      "smart TV apps visible",
+      "slim bezels"
+    ],
+    "occlusion": "none",
+    "image_id": "49.jpg",
+    "price_inr": 75290.76
+  },
+  {
+    "category": "Electronics",
+    "subcategory": "Televisions",
+    "product_type": "Smart TV",
+    "brand": "Sony",
+    "screen_size": "unknown",
+    "resolution": "unknown",
+    "display_type": "LED",
+    "smart_tv": "Yes",
+    "os": "unknown",
+    "ports": [
+      "HDMI",
+      "USB",
+      "Ethernet"
+    ],
+    "design": "Slim",
+    "stand_type": "Tabletop",
+    "visual_tags": [
+      "stand visible",
+      "wall mount kit visible",
+      "power strip visible",
+      "HDMI cables visible",
+      "streaming service cards visible",
+      "slim bezels"
+    ],
+    "occlusion": "none",
+    "image_id": "192.jpg",
+    "price_inr": 14635.04
+  },
+  {
+    "category": "Electronics",
+    "subcategory": "Televisions",
+    "product_type": "LED TV",
+    "brand": "OnePlus",
+    "screen_size": "32 inch",
+    "resolution": "1080p",
+    "display_type": "LED",
+    "smart_tv": "No",
+    "os": "unknown",
+    "ports": [],
+    "design": "Classic",
+    "stand_type": "Tabletop",
+    "visual_tags": [
+      "power cord visible"
+    ],
+    "occlusion": "none",
+    "image_id": "16.jpg",
+    "price_inr": 142868.73
+  },
+  {
+    "category": "Electronics",
+    "subcategory": "Televisions",
+    "product_type": "LED TV",
+    "brand": "LG",
+    "screen_size": "unknown",
+    "resolution": "unknown",
+    "display_type": "LED",
+    "smart_tv": "unknown",
+    "os": "unknown",
+    "ports": [],
+    "design": "Slim",
+    "stand_type": "unknown",
+    "visual_tags": [
+      "slim bezels"
+    ],
+    "occlusion": "none",
+    "image_id": "129.jpg",
+    "price_inr": 102261.14
+  },
+  {
+    "category": "Electronics",
+    "subcategory": "Televisions",
+    "product_type": "Smart TV",
+    "brand": "Samsung",
+    "screen_size": "55 inch",
+    "resolution": "4K",
+    "display_type": "LED",
+    "smart_tv": "Yes",
+    "os": "Tizen",
+    "ports": [
+      "HDMI",
+      "USB",
+      "Ethernet"
+    ],
+    "design": "Bezel-less",
+    "stand_type": "Tabletop",
+    "visual_tags": [
+      "slim bezels"
+    ],
+    "occlusion": "none",
+    "image_id": "73.jpg",
+    "price_inr": 66366.19
+  },
+  {
+    "category": "Electronics",
+    "subcategory": "Televisions",
+    "product_type": "Smart TV",
+    "brand": "Sony",
+    "screen_size": "unknown",
+    "resolution": "unknown",
+    "display_type": "unknown",
+    "smart_tv": "Yes",
+    "os": "unknown",
+    "ports": [],
+    "design": "Bezel-less",
+    "stand_type": "Wall-mounted",
+    "visual_tags": [
+      "wall mount visible",
+      "bezel-less design",
+      "no remote visible"
+    ],
+    "occlusion": "none",
+    "image_id": "180.jpg",
+    "price_inr": 97938.78
+  },
+  {
+    "category": "Electronics",
+    "subcategory": "Televisions",
+    "product_type": "Smart TV",
+    "brand": "Samsung",
+    "screen_size": "unknown",
+    "resolution": "4K",
+    "display_type": "LED",
+    "smart_tv": "Yes",
+    "os": "unknown",
+    "ports": [
+      "HDMI",
+      "USB",
+      "Ethernet"
+    ],
+    "design": "Slim",
+    "stand_type": "Tabletop",
+    "visual_tags": [
+      "slim bezels"
+    ],
+    "occlusion": "none",
+    "image_id": "8.jpg",
+    "price_inr": 73276.92
+  },
+  {
+    "category": "Electronics",
+    "subcategory": "Televisions",
+    "product_type": "LED TV",
+    "brand": "Element",
+    "screen_size": "unknown",
+    "resolution": "unknown",
+    "display_type": "LED",
+    "smart_tv": "No",
+    "os": "unknown",
+    "ports": [],
+    "design": "Classic",
+    "stand_type": "Tabletop",
+    "visual_tags": [
+      "slim bezels"
+    ],
+    "occlusion": "none",
+    "image_id": "145.jpg",
+    "price_inr": 42083.64
+  },
+  {
+    "category": "Electronics",
+    "subcategory": "Televisions",
+    "product_type": "Smart TV",
+    "brand": "Westinghouse",
+    "screen_size": "unknown",
+    "resolution": "unknown",
+    "display_type": "LED",
+    "smart_tv": "Yes",
+    "os": "Roku TV",
+    "ports": [
+      "HDMI",
+      "USB",
+      "Ethernet"
+    ],
+    "design": "Slim",
+    "stand_type": "Tabletop",
+    "visual_tags": [
+      "apps visible",
+      "tabletop stand",
+      "slim bezels"
+    ],
+    "occlusion": "none",
+    "image_id": "164.jpg",
+    "price_inr": 52390.35
+  },
+  {
+    "category": "Electronics",
+    "subcategory": "Televisions",
+    "product_type": "Smart TV",
+    "brand": "Samsung",
+    "screen_size": "55 inch",
+    "resolution": "4K",
+    "display_type": "QLED",
+    "smart_tv": "Yes",
+    "os": "Tizen",
+    "ports": [
+      "HDMI",
+      "USB",
+      "Ethernet"
+    ],
+    "design": "Bezel-less",
+    "stand_type": "Tabletop",
+    "visual_tags": [
+      "remote visible",
+      "slim bezels",
+      "soundbar visible",
+      "subwoofer visible"
+    ],
+    "occlusion": "none",
+    "image_id": "105.jpg",
+    "price_inr": 112954.25
+  },
+  {
+    "category": "Electronics",
+    "subcategory": "Televisions",
+    "product_type": "Smart TV",
+    "brand": "Samsung",
+    "screen_size": "unknown",
+    "resolution": "unknown",
+    "display_type": "QLED",
+    "smart_tv": "Yes",
+    "os": "unknown",
+    "ports": [],
+    "design": "Bezel-less",
+    "stand_type": "Tabletop",
+    "visual_tags": [
+      "slim bezels"
+    ],
+    "occlusion": "none",
+    "image_id": "198.jpg",
+    "price_inr": 60673.47
+  },
+  {
+    "category": "Electronics",
+    "subcategory": "Televisions",
+    "product_type": "Smart TV",
+    "brand": "Vizio",
+    "screen_size": "unknown",
+    "resolution": "4K",
+    "display_type": "LED",
+    "smart_tv": "Yes",
+    "os": "unknown",
+    "ports": [],
+    "design": "Slim",
+    "stand_type": "Tabletop",
+    "visual_tags": [
+      "slim bezels"
+    ],
+    "occlusion": "none",
+    "image_id": "152.jpg",
+    "price_inr": 55358.59
+  },
+  {
+    "category": "Electronics",
+    "subcategory": "Televisions",
+    "product_type": "unknown",
+    "brand": "Panasonic",
+    "screen_size": "unknown",
+    "resolution": "unknown",
+    "display_type": "unknown",
+    "smart_tv": "No",
+    "os": "unknown",
+    "ports": [],
+    "design": "unknown",
+    "stand_type": "unknown",
+    "visual_tags": [],
+    "occlusion": "none",
+    "image_id": "17.jpg",
+    "price_inr": 142196.84
+  },
+  {
+    "category": "Electronics",
+    "subcategory": "Televisions",
+    "product_type": "Smart TV",
+    "brand": "Samsung",
+    "screen_size": "unknown",
+    "resolution": "unknown",
+    "display_type": "LED",
+    "smart_tv": "Yes",
+    "os": "unknown",
+    "ports": [],
+    "design": "Bezel-less",
+    "stand_type": "Tabletop",
+    "visual_tags": [
+      "slim bezels"
+    ],
+    "occlusion": "none",
+    "image_id": "33.jpg",
+    "price_inr": 21154.75
+  },
+  {
+    "category": "Electronics",
+    "subcategory": "Televisions",
+    "product_type": "Smart TV",
+    "brand": "TCL",
+    "screen_size": "unknown",
+    "resolution": "unknown",
+    "display_type": "LED",
+    "smart_tv": "Yes",
+    "os": "Android TV",
+    "ports": [
+      "HDMI",
+      "USB",
+      "Ethernet"
+    ],
+    "design": "Slim",
+    "stand_type": "Tabletop",
+    "visual_tags": [
+      "soundbar visible",
+      "tabletop stand",
+      "slim bezels"
+    ],
+    "occlusion": "none",
+    "image_id": "168.jpg",
+    "price_inr": 64397.59
+  },
+  {
+    "category": "Electronics",
+    "subcategory": "Televisions",
+    "product_type": "Smart TV",
+    "brand": "Samsung",
+    "screen_size": "unknown",
+    "resolution": "unknown",
+    "display_type": "QLED",
+    "smart_tv": "Yes",
+    "os": "unknown",
+    "ports": [],
+    "design": "Bezel-less",
+    "stand_type": "Tabletop",
+    "visual_tags": [
+      "slim bezels"
+    ],
+    "occlusion": "none",
+    "image_id": "154.jpg",
+    "price_inr": 132790.28
+  },
+  {
+    "category": "Electronics",
+    "subcategory": "Televisions",
+    "product_type": "Smart TV",
+    "brand": "Philips",
+    "screen_size": "55 inch",
+    "resolution": "4K",
+    "display_type": "LED",
+    "smart_tv": "Yes",
+    "os": "unknown",
+    "ports": [
+      "HDMI",
+      "USB",
+      "Ethernet"
+    ],
+    "design": "Bezel-less",
+    "stand_type": "Tabletop",
+    "visual_tags": [
+      "slim bezels",
+      "tabletop stand"
+    ],
+    "occlusion": "none",
+    "image_id": "140.jpg",
+    "price_inr": 136635.27
+  },
+  {
+    "category": "Electronics",
+    "subcategory": "Televisions",
+    "product_type": "Smart TV",
+    "brand": "Philips",
+    "screen_size": "unknown",
+    "resolution": "unknown",
+    "display_type": "LED",
+    "smart_tv": "Yes",
+    "os": "unknown",
+    "ports": [
+      "HDMI",
+      "USB",
+      "Ethernet"
+    ],
+    "design": "Bezel-less",
+    "stand_type": "Wall-mounted",
+    "visual_tags": [
+      "wall mounted",
+      "slim bezels",
+      "soundbar visible",
+      "mounting bracket visible"
+    ],
+    "occlusion": "none",
+    "image_id": "78.jpg",
+    "price_inr": 145476.09
+  },
+  {
+    "category": "Electronics",
+    "subcategory": "Televisions",
+    "product_type": "unknown",
+    "brand": "Philips",
+    "screen_size": "unknown",
+    "resolution": "unknown",
+    "display_type": "unknown",
+    "smart_tv": "No",
+    "os": "unknown",
+    "ports": [],
+    "design": "unknown",
+    "stand_type": "unknown",
+    "visual_tags": [],
+    "occlusion": "none",
+    "image_id": "48.jpg",
+    "price_inr": 60264.43
+  },
+  {
+    "category": "Electronics",
+    "subcategory": "Televisions",
+    "product_type": "Smart TV",
+    "brand": "LG",
+    "screen_size": "unknown",
+    "resolution": "unknown",
+    "display_type": "unknown",
+    "smart_tv": "Yes",
+    "os": "unknown",
+    "ports": [],
+    "design": "Bezel-less",
+    "stand_type": "Wall-mounted",
+    "visual_tags": [
+      "wall mounted",
+      "slim bezels"
+    ],
+    "occlusion": "none",
+    "image_id": "181.jpg",
+    "price_inr": 154935.41
+  },
+  {
+    "category": "Electronics",
+    "subcategory": "Televisions",
+    "product_type": "LED TV",
+    "brand": "Vizio",
+    "screen_size": "unknown",
+    "resolution": "unknown",
+    "display_type": "LED",
+    "smart_tv": "No",
+    "os": "unknown",
+    "ports": [],
+    "design": "Classic",
+    "stand_type": "Tabletop",
+    "visual_tags": [],
+    "occlusion": "none",
+    "image_id": "151.jpg",
+    "price_inr": 13401.48
+  },
+  {
+    "category": "Electronics",
+    "subcategory": "Televisions",
+    "product_type": "unknown",
+    "brand": "Viano",
+    "screen_size": "unknown",
+    "resolution": "unknown",
+    "display_type": "unknown",
+    "smart_tv": "unknown",
+    "os": "unknown",
+    "ports": [],
+    "design": "unknown",
+    "stand_type": "unknown",
+    "visual_tags": [
+      "remote visible"
+    ],
+    "occlusion": "none",
+    "image_id": "95.jpg",
+    "price_inr": 13067.22
+  },
+  {
+    "category": "Electronics",
+    "subcategory": "Televisions",
+    "product_type": "Smart TV",
+    "brand": "Samsung",
+    "screen_size": "55 inch",
+    "resolution": "4K",
+    "display_type": "QLED",
+    "smart_tv": "Yes",
+    "os": "Tizen",
+    "ports": [
+      "HDMI",
+      "USB",
+      "Ethernet"
+    ],
+    "design": "Bezel-less",
+    "stand_type": "Tabletop",
+    "visual_tags": [
+      "slim bezels"
+    ],
+    "occlusion": "none",
+    "image_id": "142.jpg",
+    "price_inr": 121842.15
+  },
+  {
+    "category": "Electronics",
+    "subcategory": "Televisions",
+    "product_type": "LED TV Mainboard Kit",
+    "brand": "Hisense",
+    "screen_size": "unknown",
+    "resolution": "unknown",
+    "display_type": "LED",
+    "smart_tv": "No",
+    "os": "unknown",
+    "ports": [
+      "VGA",
+      "HDMI",
+      "USB",
+      "AV",
+      "Component",
+      "Antenna",
+      "Headphone"
+    ],
+    "design": "Classic",
+    "stand_type": "unknown",
+    "visual_tags": [
+      "remote visible",
+      "mainboard exposed",
+      "no screen"
+    ],
+    "occlusion": "none",
+    "image_id": "161.jpg",
+    "price_inr": 76155.32
+  },
+  {
+    "category": "Electronics",
+    "subcategory": "Television Parts",
+    "product_type": "Power Supply Board",
+    "brand": "OnePlus",
+    "screen_size": "unknown",
+    "resolution": "unknown",
+    "display_type": "unknown",
+    "smart_tv": "No",
+    "os": "unknown",
+    "ports": [],
+    "design": "Classic",
+    "stand_type": "unknown",
+    "visual_tags": [],
+    "occlusion": "none",
+    "image_id": "2.jpg",
+    "price_inr": 135151.36
+  },
+  {
+    "category": "Electronics",
+    "subcategory": "Televisions",
+    "product_type": "Smart TV",
+    "brand": "Sony",
+    "screen_size": "unknown",
+    "resolution": "unknown",
+    "display_type": "OLED",
+    "smart_tv": "Yes",
+    "os": "unknown",
+    "ports": [],
+    "design": "Bezel-less",
+    "stand_type": "Tabletop",
+    "visual_tags": [
+      "soundbar visible",
+      "subwoofer visible",
+      "bezel-less design",
+      "tabletop stand"
+    ],
+    "occlusion": "none",
+    "image_id": "109.jpg",
+    "price_inr": 88875.0
+  },
+  {
+    "category": "Electronics",
+    "subcategory": "Video Equipment",
+    "product_type": "HDMI Switch/Converter",
+    "brand": "Philips",
+    "screen_size": "unknown",
+    "resolution": "unknown",
+    "display_type": "unknown",
+    "smart_tv": "No",
+    "os": "unknown",
+    "ports": [
+      "HDMI",
+      "USB",
+      "Ethernet (RJ45)",
+      "RS232",
+      "DVI",
+      "VGA",
+      "Audio In",
+      "Audio Out",
+      "DC 12V"
+    ],
+    "design": "Classic",
+    "stand_type": "Tabletop",
+    "visual_tags": [],
+    "occlusion": "none",
+    "image_id": "87.jpg",
+    "price_inr": 97059.2
+  },
+  {
+    "category": "Electronics",
+    "subcategory": "Televisions",
+    "product_type": "unknown",
+    "brand": "OnePlus",
+    "screen_size": "unknown",
+    "resolution": "unknown",
+    "display_type": "unknown",
+    "smart_tv": "No",
+    "os": "unknown",
+    "ports": [],
+    "design": "unknown",
+    "stand_type": "unknown",
+    "visual_tags": [],
+    "occlusion": "none",
+    "image_id": "104.jpg",
+    "price_inr": 100522.34
+  },
+  {
+    "category": "Electronics",
+    "subcategory": "Televisions",
+    "product_type": "Smart TV",
+    "brand": "Samsung",
+    "screen_size": "55 inch",
+    "resolution": "4K",
+    "display_type": "QLED",
+    "smart_tv": "Yes",
+    "os": "Tizen",
+    "ports": [
+      "HDMI",
+      "USB",
+      "Ethernet"
+    ],
+    "design": "Bezel-less",
+    "stand_type": "Tabletop",
+    "visual_tags": [
+      "slim bezels",
+      "tabletop stand"
+    ],
+    "occlusion": "none",
+    "image_id": "77.jpg",
+    "price_inr": 78711.93
+  },
+  {
+    "category": "Electronics",
+    "subcategory": "Televisions",
+    "product_type": "LED TV",
+    "brand": "Hisense",
+    "screen_size": "unknown",
+    "resolution": "unknown",
+    "display_type": "LED",
+    "smart_tv": "No",
+    "os": "unknown",
+    "ports": [],
+    "design": "Classic",
+    "stand_type": "Tabletop",
+    "visual_tags": [],
+    "occlusion": "none",
+    "image_id": "115.jpg",
+    "price_inr": 35388.12
+  },
+  {
+    "category": "Electronics",
+    "subcategory": "Televisions",
+    "product_type": "Smart TV",
+    "brand": "Samsung",
+    "screen_size": "55 inch",
+    "resolution": "4K",
+    "display_type": "QLED",
+    "smart_tv": "Yes",
+    "os": "Tizen",
+    "ports": [
+      "HDMI",
+      "USB",
+      "Ethernet"
+    ],
+    "design": "Bezel-less",
+    "stand_type": "Tabletop",
+    "visual_tags": [
+      "slim bezels"
+    ],
+    "occlusion": "none",
+    "image_id": "76.jpg",
+    "price_inr": 133418.93
+  },
+  {
+    "category": "Electronics",
+    "subcategory": "Televisions",
+    "product_type": "Smart TV",
+    "brand": "Samsung",
+    "screen_size": "unknown",
+    "resolution": "unknown",
+    "display_type": "LED",
+    "smart_tv": "Yes",
+    "os": "unknown",
+    "ports": [],
+    "design": "Slim",
+    "stand_type": "unknown",
+    "visual_tags": [
+      "remote not visible",
+      "slim bezels"
+    ],
+    "occlusion": "none",
+    "image_id": "178.jpg",
+    "price_inr": 50385.75
+  },
+  {
+    "category": "Electronics",
+    "subcategory": "Televisions",
+    "product_type": "Smart TV",
+    "brand": "Samsung",
+    "screen_size": "55 inch",
+    "resolution": "4K",
+    "display_type": "QLED",
+    "smart_tv": "Yes",
+    "os": "Tizen",
+    "ports": [
+      "HDMI",
+      "USB",
+      "Ethernet"
+    ],
+    "design": "Bezel-less",
+    "stand_type": "Tabletop",
+    "visual_tags": [
+      "slim bezels"
+    ],
+    "occlusion": "none",
+    "image_id": "74.jpg",
+    "price_inr": 97231.89
+  },
+  {
+    "category": "Electronics",
+    "subcategory": "Televisions",
+    "product_type": "Smart TV",
+    "brand": "Philips",
+    "screen_size": "unknown",
+    "resolution": "unknown",
+    "display_type": "LED",
+    "smart_tv": "Yes",
+    "os": "unknown",
+    "ports": [],
+    "design": "Bezel-less",
+    "stand_type": "Wall-mounted",
+    "visual_tags": [
+      "slim bezels",
+      "wall mounted"
+    ],
+    "occlusion": "partial",
+    "image_id": "144.jpg",
+    "price_inr": 11141.83
+  },
+  {
+    "category": "Electronics",
+    "subcategory": "Television Parts",
+    "product_type": "Main Board",
+    "brand": "Vizio",
+    "screen_size": "unknown",
+    "resolution": "unknown",
+    "display_type": "unknown",
+    "smart_tv": "unknown",
+    "os": "unknown",
+    "ports": [],
+    "design": "Classic",
+    "stand_type": "unknown",
+    "visual_tags": [],
+    "occlusion": "none",
+    "image_id": "62.jpg",
+    "price_inr": 58405.92
+  },
+  {
+    "category": "Electronics",
+    "subcategory": "Televisions",
+    "product_type": "LED TV",
+    "brand": "Westinghouse",
+    "screen_size": "32 inch",
+    "resolution": "1080p",
+    "display_type": "LED",
+    "smart_tv": "No",
+    "os": "unknown",
+    "ports": [
+      "HDMI",
+      "USB"
+    ],
+    "design": "Classic",
+    "stand_type": "Tabletop",
+    "visual_tags": [
+      "tabletop stand",
+      "no remote visible",
+      "classic bezels"
+    ],
+    "occlusion": "none",
+    "image_id": "58.jpg",
+    "price_inr": 73972.52
+  },
+  {
+    "category": "Electronics",
+    "subcategory": "Televisions",
+    "product_type": "Smart TV",
+    "brand": "Samsung",
+    "screen_size": "unknown",
+    "resolution": "4K",
+    "display_type": "LED",
+    "smart_tv": "Yes",
+    "os": "unknown",
+    "ports": [
+      "HDMI",
+      "USB",
+      "Ethernet"
+    ],
+    "design": "Slim",
+    "stand_type": "Tabletop",
+    "visual_tags": [
+      "wall mount kit visible",
+      "power strip visible",
+      "HDMI cables visible",
+      "slim bezels"
+    ],
+    "occlusion": "none",
+    "image_id": "167.jpg",
+    "price_inr": 50500.1
+  },
+  {
+    "category": "Electronics",
+    "subcategory": "Televisions",
+    "product_type": "LED TV",
+    "brand": "Vizio",
+    "screen_size": "unknown",
+    "resolution": "unknown",
+    "display_type": "LED",
+    "smart_tv": "unknown",
+    "os": "unknown",
+    "ports": [],
+    "design": "Bezel-less",
+    "stand_type": "Tabletop",
+    "visual_tags": [
+      "slim bezels"
+    ],
+    "occlusion": "none",
+    "image_id": "122.jpg",
+    "price_inr": 76969.12
+  },
+  {
+    "category": "Electronics",
+    "subcategory": "Televisions",
+    "product_type": "LED TV",
+    "brand": "Westinghouse",
+    "screen_size": "32 inch",
+    "resolution": "1080p",
+    "display_type": "LED",
+    "smart_tv": "No",
+    "os": "unknown",
+    "ports": [
+      "HDMI",
+      "USB"
+    ],
+    "design": "Classic",
+    "stand_type": "Tabletop",
+    "visual_tags": [
+      "tabletop stand",
+      "classic bezels"
+    ],
+    "occlusion": "none",
+    "image_id": "59.jpg",
+    "price_inr": 39013.36
+  },
+  {
+    "category": "Electronics",
+    "subcategory": "Televisions",
+    "product_type": "LED TV",
+    "brand": "Vizio",
+    "screen_size": "unknown",
+    "resolution": "unknown",
+    "display_type": "LED",
+    "smart_tv": "unknown",
+    "os": "unknown",
+    "ports": [],
+    "design": "Slim",
+    "stand_type": "Tabletop",
+    "visual_tags": [
+      "slim bezels"
+    ],
+    "occlusion": "none",
+    "image_id": "64.jpg",
+    "price_inr": 117671.59
+  },
+  {
+    "category": "Electronics",
+    "subcategory": "Televisions",
+    "product_type": "LED TV",
+    "brand": "Mi",
+    "screen_size": "unknown",
+    "resolution": "unknown",
+    "display_type": "LED",
+    "smart_tv": "unknown",
+    "os": "unknown",
+    "ports": [],
+    "design": "Bezel-less",
+    "stand_type": "Wall-mounted",
+    "visual_tags": [
+      "wall mount visible",
+      "slim bezels"
+    ],
+    "occlusion": "none",
+    "image_id": "186.jpg",
+    "price_inr": 33668.88
+  },
+  {
+    "category": "Electronics",
+    "subcategory": "Televisions",
+    "product_type": "Remote Control",
+    "brand": "Sony",
+    "screen_size": "unknown",
+    "resolution": "unknown",
+    "display_type": "unknown",
+    "smart_tv": "unknown",
+    "os": "unknown",
+    "ports": [],
+    "design": "Slim",
+    "stand_type": "unknown",
+    "visual_tags": [
+      "remote visible"
+    ],
+    "occlusion": "none",
+    "image_id": "21.jpg",
+    "price_inr": 153588.02
+  },
+  {
+    "category": "Electronics",
+    "subcategory": "Televisions",
+    "product_type": "LED TV",
+    "brand": "Panasonic",
+    "screen_size": "unknown",
+    "resolution": "unknown",
+    "display_type": "LED",
+    "smart_tv": "unknown",
+    "os": "unknown",
+    "ports": [],
+    "design": "Slim",
+    "stand_type": "Tabletop",
+    "visual_tags": [
+      "slim bezels"
+    ],
+    "occlusion": "none",
+    "image_id": "156.jpg",
+    "price_inr": 154597.64
+  },
+  {
+    "category": "Electronics",
+    "subcategory": "Televisions",
+    "product_type": "unknown",
+    "brand": "TCL",
+    "screen_size": "unknown",
+    "resolution": "unknown",
+    "display_type": "unknown",
+    "smart_tv": "unknown",
+    "os": "unknown",
+    "ports": [],
+    "design": "unknown",
+    "stand_type": "unknown",
+    "visual_tags": [],
+    "occlusion": "full",
+    "image_id": "170.jpg",
+    "price_inr": 152476.49
+  },
+  {
+    "category": "Electronics",
+    "subcategory": "Televisions",
+    "product_type": "Smart TV",
+    "brand": "TCL",
+    "screen_size": "unknown",
+    "resolution": "unknown",
+    "display_type": "LED",
+    "smart_tv": "Yes",
+    "os": "Android TV",
+    "ports": [
+      "HDMI",
+      "USB",
+      "Ethernet"
+    ],
+    "design": "Slim",
+    "stand_type": "Tabletop",
+    "visual_tags": [
+      "soundbar visible",
+      "subwoofer visible",
+      "apps visible on screen",
+      "tabletop stand"
+    ],
+    "occlusion": "none",
+    "image_id": "148.jpg",
+    "price_inr": 84345.13
+  },
+  {
+    "category": "Electronics",
+    "subcategory": "Televisions",
+    "product_type": "LED TV",
+    "brand": "Hisense",
+    "screen_size": "unknown",
+    "resolution": "unknown",
+    "display_type": "LED",
+    "smart_tv": "unknown",
+    "os": "unknown",
+    "ports": [],
+    "design": "Slim",
+    "stand_type": "Tabletop",
+    "visual_tags": [
+      "slim bezels"
+    ],
+    "occlusion": "none",
+    "image_id": "40.jpg",
+    "price_inr": 29224.51
+  },
+  {
+    "category": "Electronics",
+    "subcategory": "Televisions",
+    "product_type": "LED TV",
+    "brand": "TCL",
+    "screen_size": "55 inch",
+    "resolution": "4K",
+    "display_type": "LED",
+    "smart_tv": "Yes",
+    "os": "unknown",
+    "ports": [
+      "HDMI",
+      "USB",
+      "Ethernet"
+    ],
+    "design": "Bezel-less",
+    "stand_type": "Tabletop",
+    "visual_tags": [
+      "slim bezels",
+      "tabletop stand"
+    ],
+    "occlusion": "none",
+    "image_id": "71.jpg",
+    "price_inr": 117598.82
+  },
+  {
+    "category": "Electronics",
+    "subcategory": "Televisions",
+    "product_type": "LED TV",
+    "brand": "TCL",
+    "screen_size": "unknown",
+    "resolution": "unknown",
+    "display_type": "LED",
+    "smart_tv": "unknown",
+    "os": "unknown",
+    "ports": [],
+    "design": "Curved, Slim",
+    "stand_type": "Tabletop",
+    "visual_tags": [
+      "curved screen",
+      "slim bezels",
+      "tabletop stand"
+    ],
+    "occlusion": "none",
+    "image_id": "35.jpg",
+    "price_inr": 108977.43
+  },
+  {
+    "category": "Electronics",
+    "subcategory": "Televisions",
+    "product_type": "Smart TV",
+    "brand": "Hisense",
+    "screen_size": "unknown",
+    "resolution": "4K UHD",
+    "display_type": "LED",
+    "smart_tv": "Yes",
+    "os": "Roku TV",
+    "ports": [
+      "HDMI",
+      "USB",
+      "Ethernet"
+    ],
+    "design": "Slim",
+    "stand_type": "Tabletop",
+    "visual_tags": [
+      "slim bezels",
+      "tabletop stand",
+      "Roku TV interface"
+    ],
+    "occlusion": "none",
+    "image_id": "107.jpg",
+    "price_inr": 92743.58
+  },
+  {
+    "category": "Electronics",
+    "subcategory": "Semiconductors",
+    "product_type": "Integrated Circuit",
+    "brand": "OnePlus",
+    "screen_size": null,
+    "resolution": null,
+    "display_type": null,
+    "smart_tv": null,
+    "os": null,
+    "ports": [],
+    "design": null,
+    "stand_type": null,
+    "visual_tags": [],
+    "occlusion": "none",
+    "image_id": "149.jpg",
+    "price_inr": 77497.69
+  },
+  {
+    "category": "Electronics",
+    "subcategory": "Televisions",
+    "product_type": "LED TV",
+    "brand": "Hisense",
+    "screen_size": "unknown",
+    "resolution": "unknown",
+    "display_type": "LED",
+    "smart_tv": "unknown",
+    "os": "unknown",
+    "ports": [],
+    "design": "Bezel-less",
+    "stand_type": "Tabletop",
+    "visual_tags": [
+      "slim bezels"
+    ],
+    "occlusion": "none",
+    "image_id": "41.jpg",
+    "price_inr": 15544.56
+  },
+  {
+    "category": "Electronics",
+    "subcategory": "Televisions",
+    "product_type": "Smart TV",
+    "brand": "Samsung",
+    "screen_size": "unknown",
+    "resolution": "unknown",
+    "display_type": "LED",
+    "smart_tv": "Yes",
+    "os": "unknown",
+    "ports": [],
+    "design": "Bezel-less",
+    "stand_type": "Tabletop",
+    "visual_tags": [
+      "slim bezels"
+    ],
+    "occlusion": "none",
+    "image_id": "169.jpg",
+    "price_inr": 152066.31
+  },
+  {
+    "category": "Electronics",
+    "subcategory": "Televisions",
+    "product_type": "LED TV",
+    "brand": "Samsung",
+    "screen_size": "unknown",
+    "resolution": "unknown",
+    "display_type": "LED",
+    "smart_tv": "unknown",
+    "os": "unknown",
+    "ports": [],
+    "design": "Bezel-less",
+    "stand_type": "Tabletop",
+    "visual_tags": [
+      "slim bezels"
+    ],
+    "occlusion": "none",
+    "image_id": "137.jpg",
+    "price_inr": 27330.56
+  },
+  {
+    "category": "Electronics",
+    "subcategory": "Televisions",
+    "product_type": "unknown",
+    "brand": "Mi",
+    "screen_size": "unknown",
+    "resolution": "unknown",
+    "display_type": "unknown",
+    "smart_tv": "unknown",
+    "os": "unknown",
+    "ports": [],
+    "design": "unknown",
+    "stand_type": "Tabletop",
+    "visual_tags": [
+      "stand visible"
+    ],
+    "occlusion": "none",
+    "image_id": "92.jpg",
+    "price_inr": 29268.14
+  },
+  {
+    "category": "Electronics",
+    "subcategory": "Televisions",
+    "product_type": "LED TV",
+    "brand": "Intex",
+    "screen_size": "32 inch",
+    "resolution": "unknown",
+    "display_type": "LED",
+    "smart_tv": "No",
+    "os": "unknown",
+    "ports": [],
+    "design": "Classic",
+    "stand_type": "Tabletop",
+    "visual_tags": [
+      "tabletop stand",
+      "classic bezel",
+      "no remote visible"
+    ],
+    "occlusion": "none",
+    "image_id": "51.jpg",
+    "price_inr": 15382.3
+  },
+  {
+    "category": "Electronics",
+    "subcategory": "Televisions",
+    "product_type": "Smart TV",
+    "brand": "Samsung",
+    "screen_size": "unknown",
+    "resolution": "unknown",
+    "display_type": "QLED",
+    "smart_tv": "Yes",
+    "os": "unknown",
+    "ports": [],
+    "design": "Bezel-less",
+    "stand_type": "Tabletop",
+    "visual_tags": [
+      "remote visible",
+      "slim bezels",
+      "soundbar visible",
+      "subwoofer visible"
+    ],
+    "occlusion": "none",
+    "image_id": "196.jpg",
+    "price_inr": 128714.91
+  },
+  {
+    "category": "Electronics",
+    "subcategory": "Televisions",
+    "product_type": "Smart TV",
+    "brand": "LG",
+    "screen_size": "unknown",
+    "resolution": "unknown",
+    "display_type": "LED",
+    "smart_tv": "Yes",
+    "os": "webOS",
+    "ports": [
+      "HDMI"
+    ],
+    "design": "Slim",
+    "stand_type": "Tabletop",
+    "visual_tags": [
+      "slim bezels",
+      "smart TV interface visible"
+    ],
+    "occlusion": "none",
+    "image_id": "38.jpg",
+    "price_inr": 149227.6
+  },
+  {
+    "category": "Electronics",
+    "subcategory": "Modules & Interfaces",
+    "product_type": "TVDI Expander Module",
+    "brand": "Legrand",
+    "screen_size": null,
+    "resolution": null,
+    "display_type": null,
+    "smart_tv": "No",
+    "os": null,
+    "ports": [
+      "RJ45",
+      "Control Interface In",
+      "Interface Cascade Out"
+    ],
+    "design": "Classic",
+    "stand_type": null,
+    "visual_tags": [],
+    "occlusion": "none",
+    "image_id": "116.jpg",
+    "price_inr": 58545.78
+  },
+  {
+    "category": "Electronics",
+    "subcategory": "Televisions",
+    "product_type": "LED TV",
+    "brand": "TCL",
+    "screen_size": "unknown",
+    "resolution": "unknown",
+    "display_type": "LED",
+    "smart_tv": "unknown",
+    "os": "unknown",
+    "ports": [],
+    "design": "Bezel-less",
+    "stand_type": "Tabletop",
+    "visual_tags": [
+      "slim bezels",
+      "wall mount bracket visible",
+      "cleaning spray visible"
+    ],
+    "occlusion": "none",
+    "image_id": "183.jpg",
+    "price_inr": 103306.42
+  },
+  {
+    "category": "Electronics",
+    "subcategory": "Televisions",
+    "product_type": "Smart TV",
+    "brand": "Sony",
+    "screen_size": "unknown",
+    "resolution": "unknown",
+    "display_type": "LED",
+    "smart_tv": "Yes",
+    "os": "unknown",
+    "ports": [],
+    "design": "Slim",
+    "stand_type": "Tabletop",
+    "visual_tags": [
+      "soundbar visible",
+      "subwoofer visible",
+      "slim bezels",
+      "tabletop stand"
+    ],
+    "occlusion": "none",
+    "image_id": "150.jpg",
+    "price_inr": 36895.6
+  },
+  {
+    "category": "Electronics",
+    "subcategory": "Televisions",
+    "product_type": "Smart TV",
+    "brand": "Sony",
+    "screen_size": "unknown",
+    "resolution": "unknown",
+    "display_type": "LED",
+    "smart_tv": "Yes",
+    "os": "unknown",
+    "ports": [],
+    "design": "Bezel-less",
+    "stand_type": "Tabletop",
+    "visual_tags": [
+      "slim bezels"
+    ],
+    "occlusion": "none",
+    "image_id": "172.jpg",
+    "price_inr": 68086.53
+  },
+  {
+    "category": "Electronics",
+    "subcategory": "Televisions",
+    "product_type": "unknown",
+    "brand": "OnePlus",
+    "screen_size": "unknown",
+    "resolution": "unknown",
+    "display_type": "unknown",
+    "smart_tv": "unknown",
+    "os": "unknown",
+    "ports": [],
+    "design": "unknown",
+    "stand_type": "unknown",
+    "visual_tags": [
+      "remote visible"
+    ],
+    "occlusion": "none",
+    "image_id": "94.jpg",
+    "price_inr": 17419.39
+  },
+  {
+    "category": "Electronics",
+    "subcategory": "Televisions",
+    "product_type": "LED TV Mainboard Kit",
+    "brand": "Samsung",
+    "screen_size": "unknown",
+    "resolution": "unknown",
+    "display_type": "LED",
+    "smart_tv": "No",
+    "os": "unknown",
+    "ports": [
+      "VGA",
+      "HDMI",
+      "AV",
+      "USB",
+      "Antenna",
+      "Audio out"
+    ],
+    "design": "unknown",
+    "stand_type": "unknown",
+    "visual_tags": [
+      "remote visible",
+      "mainboard visible",
+      "buttons visible",
+      "no TV panel"
+    ],
+    "occlusion": "none",
+    "image_id": "70.jpg",
+    "price_inr": 135436.32
+  },
+  {
+    "category": "Electronics",
+    "subcategory": "Televisions",
+    "product_type": "Remote Control",
+    "brand": "Philips",
+    "screen_size": "unknown",
+    "resolution": "unknown",
+    "display_type": "unknown",
+    "smart_tv": "unknown",
+    "os": "unknown",
+    "ports": [],
+    "design": "unknown",
+    "stand_type": "unknown",
+    "visual_tags": [
+      "remote visible"
+    ],
+    "occlusion": "none",
+    "image_id": "19.jpg",
+    "price_inr": 156781.01
+  },
+  {
+    "category": "Electronics",
+    "subcategory": "TV Accessories",
+    "product_type": "TV Wall Controller",
+    "brand": "Panasonic",
+    "screen_size": null,
+    "resolution": null,
+    "display_type": null,
+    "smart_tv": null,
+    "os": null,
+    "ports": [
+      "USB",
+      "VGA"
+    ],
+    "design": "Classic",
+    "stand_type": null,
+    "visual_tags": [],
+    "occlusion": "none",
+    "image_id": "47.jpg",
+    "price_inr": 12120.34
+  },
+  {
+    "category": "Electronics",
+    "subcategory": "Televisions",
+    "product_type": "LED TV",
+    "brand": "TCL",
+    "screen_size": "unknown",
+    "resolution": "unknown",
+    "display_type": "LED",
+    "smart_tv": "unknown",
+    "os": "unknown",
+    "ports": [],
+    "design": "Slim",
+    "stand_type": "Tabletop",
+    "visual_tags": [
+      "slim bezels"
+    ],
+    "occlusion": "none",
+    "image_id": "14.jpg",
+    "price_inr": 52565.87
+  },
+  {
+    "category": "Electronics",
+    "subcategory": "Televisions",
+    "product_type": "LED TV Backlight Strips",
+    "brand": "Konka",
+    "screen_size": "unknown",
+    "resolution": "unknown",
+    "display_type": "LED",
+    "smart_tv": "No",
+    "os": "unknown",
+    "ports": [],
+    "design": "unknown",
+    "stand_type": "unknown",
+    "visual_tags": [],
+    "occlusion": "none",
+    "image_id": "37.jpg",
+    "price_inr": 57074.01
+  },
+  {
+    "category": "Electronics",
+    "subcategory": "Televisions",
+    "product_type": "LED TV",
+    "brand": "Philips",
+    "screen_size": "unknown",
+    "resolution": "unknown",
+    "display_type": "LED",
+    "smart_tv": "No",
+    "os": "unknown",
+    "ports": [],
+    "design": "Classic",
+    "stand_type": "Tabletop",
+    "visual_tags": [
+      "slim bezels"
+    ],
+    "occlusion": "none",
+    "image_id": "112.jpg",
+    "price_inr": 35839.01
+  },
+  {
+    "category": "Electronics",
+    "subcategory": "Televisions",
+    "product_type": "Smart TV",
+    "brand": "OnePlus",
+    "screen_size": "unknown",
+    "resolution": "4K",
+    "display_type": "LED",
+    "smart_tv": "Yes",
+    "os": "Tizen",
+    "ports": [
+      "HDMI",
+      "USB",
+      "Ethernet"
+    ],
+    "design": "Bezel-less",
+    "stand_type": "Tabletop",
+    "visual_tags": [
+      "wall mount kit visible",
+      "HDMI cables visible",
+      "power strip visible",
+      "soundbar visible",
+      "slim bezels"
+    ],
+    "occlusion": "none",
+    "image_id": "175.jpg",
+    "price_inr": 118405.55
+  },
+  {
+    "category": "Electronics",
+    "subcategory": "Televisions",
+    "product_type": "LED TV",
+    "brand": "Hisense",
+    "screen_size": "32 inch",
+    "resolution": "1080p",
+    "display_type": "LED",
+    "smart_tv": "No",
+    "os": "unknown",
+    "ports": [],
+    "design": "Classic",
+    "stand_type": "Tabletop",
+    "visual_tags": [
+      "slim bezels"
+    ],
+    "occlusion": "none",
+    "image_id": "86.jpg",
+    "price_inr": 120250.89
+  },
+  {
+    "category": "Electronics",
+    "subcategory": "Televisions",
+    "product_type": "Smart TV",
+    "brand": "Samsung",
+    "screen_size": "unknown",
+    "resolution": "4K",
+    "display_type": "QLED",
+    "smart_tv": "Yes",
+    "os": "Tizen",
+    "ports": [
+      "HDMI",
+      "USB",
+      "Ethernet"
+    ],
+    "design": "Bezel-less",
+    "stand_type": "Tabletop",
+    "visual_tags": [
+      "slim bezels",
+      "tabletop stand"
+    ],
+    "occlusion": "none",
+    "image_id": "194.jpg",
+    "price_inr": 12286.09
+  },
+  {
+    "category": "Electronics",
+    "subcategory": "Televisions",
+    "product_type": "Smart TV",
+    "brand": "Mi",
+    "screen_size": "unknown",
+    "resolution": "unknown",
+    "display_type": "LED",
+    "smart_tv": "Yes",
+    "os": "unknown",
+    "ports": [
+      "HDMI",
+      "USB",
+      "Ethernet",
+      "Power"
+    ],
+    "design": "Slim",
+    "stand_type": "Tabletop, Wall-mounted",
+    "visual_tags": [
+      "wall mount kit visible",
+      "HDMI cables visible",
+      "slim bezels",
+      "smart TV apps visible"
+    ],
+    "occlusion": "none",
+    "image_id": "166.jpg",
+    "price_inr": 123106.11
+  },
+  {
+    "category": "Electronics",
+    "subcategory": "Televisions",
+    "product_type": "Smart TV",
+    "brand": "Samsung",
+    "screen_size": "unknown",
+    "resolution": "unknown",
+    "display_type": "QLED",
+    "smart_tv": "Yes",
+    "os": "unknown",
+    "ports": [],
+    "design": "Bezel-less",
+    "stand_type": "Tabletop",
+    "visual_tags": [
+      "slim bezels"
+    ],
+    "occlusion": "none",
+    "image_id": "177.jpg",
+    "price_inr": 32574.77
+  },
+  {
+    "category": "Electronics",
+    "subcategory": "Televisions",
+    "product_type": "Smart TV",
+    "brand": "Samsung",
+    "screen_size": "unknown",
+    "resolution": "unknown",
+    "display_type": "Neo QLED",
+    "smart_tv": "Yes",
+    "os": "unknown",
+    "ports": [],
+    "design": "Bezel-less",
+    "stand_type": "Tabletop",
+    "visual_tags": [
+      "slim bezels"
+    ],
+    "occlusion": "none",
+    "image_id": "139.jpg",
+    "price_inr": 22911.26
+  },
+  {
+    "category": "Electronics",
+    "subcategory": "Televisions",
+    "product_type": "LED TV",
+    "brand": "Hisense",
+    "screen_size": "unknown",
+    "resolution": "unknown",
+    "display_type": "LED",
+    "smart_tv": "No",
+    "os": "unknown",
+    "ports": [],
+    "design": "Classic",
+    "stand_type": "Tabletop",
+    "visual_tags": [
+      "no remote visible",
+      "tabletop stand",
+      "classic bezels"
+    ],
+    "occlusion": "none",
+    "image_id": "127.jpg",
+    "price_inr": 32877.92
+  },
+  {
+    "category": "Electronics",
+    "subcategory": "Televisions",
+    "product_type": "Curved LED TV",
+    "brand": "Vizio",
+    "screen_size": "unknown",
+    "resolution": "unknown",
+    "display_type": "LED",
+    "smart_tv": "unknown",
+    "os": "unknown",
+    "ports": [],
+    "design": "Curved, Slim",
+    "stand_type": "Tabletop",
+    "visual_tags": [
+      "curved screen",
+      "tabletop stand",
+      "slim bezels"
+    ],
+    "occlusion": "none",
+    "image_id": "135.jpg",
+    "price_inr": 105319.44
+  },
+  {
+    "category": "Electronics",
+    "subcategory": "Televisions",
+    "product_type": "Smart TV",
+    "brand": "OnePlus",
+    "screen_size": "unknown",
+    "resolution": "unknown",
+    "display_type": "unknown",
+    "smart_tv": "Yes",
+    "os": "unknown",
+    "ports": [],
+    "design": "Bezel-less",
+    "stand_type": "Tabletop",
+    "visual_tags": [
+      "slim bezels"
+    ],
+    "occlusion": "none",
+    "image_id": "197.jpg",
+    "price_inr": 148598.32
+  },
+  {
+    "category": "Electronics",
+    "subcategory": "Televisions",
+    "product_type": "LED TV",
+    "brand": "Vizio",
+    "screen_size": "unknown",
+    "resolution": "unknown",
+    "display_type": "LED",
+    "smart_tv": "No",
+    "os": "unknown",
+    "ports": [],
+    "design": "Classic",
+    "stand_type": "Tabletop",
+    "visual_tags": [
+      "slim bezels"
+    ],
+    "occlusion": "none",
+    "image_id": "136.jpg",
+    "price_inr": 153933.11
+  },
+  {
+    "category": "Electronics",
+    "subcategory": "Television Accessories",
+    "product_type": "TV Internal Speakers",
+    "brand": "Philips",
+    "screen_size": "unknown",
+    "resolution": "unknown",
+    "display_type": "unknown",
+    "smart_tv": "No",
+    "os": "unknown",
+    "ports": [],
+    "design": "Classic",
+    "stand_type": "unknown",
+    "visual_tags": [
+      "pair of speakers",
+      "wires visible"
+    ],
+    "occlusion": "none",
+    "image_id": "88.jpg",
+    "price_inr": 55114.15
+  },
+  {
+    "category": "Electronics",
+    "subcategory": "Televisions",
+    "product_type": "Smart TV",
+    "brand": "Samsung",
+    "screen_size": "unknown",
+    "resolution": "8K",
+    "display_type": "QLED",
+    "smart_tv": "Yes",
+    "os": "unknown",
+    "ports": [],
+    "design": "Bezel-less",
+    "stand_type": "Tabletop",
+    "visual_tags": [
+      "remote visible",
+      "soundbar visible",
+      "subwoofer visible",
+      "bezel-less",
+      "tabletop stand"
+    ],
+    "occlusion": "none",
+    "image_id": "28.jpg",
+    "price_inr": 156943.53
+  },
+  {
+    "category": "Electronics",
+    "subcategory": "Televisions",
+    "product_type": "LED TV",
+    "brand": "TCL",
+    "screen_size": "unknown",
+    "resolution": "unknown",
+    "display_type": "LED",
+    "smart_tv": "unknown",
+    "os": "unknown",
+    "ports": [],
+    "design": "Bezel-less",
+    "stand_type": "Tabletop",
+    "visual_tags": [
+      "slim bezels"
+    ],
+    "occlusion": "none",
+    "image_id": "133.jpg",
+    "price_inr": 102139.09
+  },
+  {
+    "category": "Electronics",
+    "subcategory": "Televisions",
+    "product_type": "Smart TV",
+    "brand": "Samsung",
+    "screen_size": "unknown",
+    "resolution": "4K",
+    "display_type": "QLED",
+    "smart_tv": "Yes",
+    "os": "unknown",
+    "ports": [
+      "HDMI",
+      "USB",
+      "Ethernet"
+    ],
+    "design": "Bezel-less",
+    "stand_type": "Tabletop",
+    "visual_tags": [
+      "remote visible",
+      "soundbar visible",
+      "subwoofer visible",
+      "slim bezels"
+    ],
+    "occlusion": "none",
+    "image_id": "101.jpg",
+    "price_inr": 31517.77
+  },
+  {
+    "category": "Electronics",
+    "subcategory": "Televisions",
+    "product_type": "Smart TV",
+    "brand": "Vizio",
+    "screen_size": "unknown",
+    "resolution": "unknown",
+    "display_type": "unknown",
+    "smart_tv": "Yes",
+    "os": "unknown",
+    "ports": [],
+    "design": "Bezel-less",
+    "stand_type": "Tabletop",
+    "visual_tags": [
+      "slim bezels"
+    ],
+    "occlusion": "none",
+    "image_id": "147.jpg",
+    "price_inr": 114578.25
+  },
+  {
+    "category": "Electronics",
+    "subcategory": "Televisions",
+    "product_type": "LED TV",
+    "brand": "OnePlus",
+    "screen_size": "unknown",
+    "resolution": "unknown",
+    "display_type": "LED",
+    "smart_tv": "No",
+    "os": "unknown",
+    "ports": [
+      "HDMI"
+    ],
+    "design": "Classic",
+    "stand_type": "Tabletop",
+    "visual_tags": [
+      "no remote visible",
+      "tabletop stand",
+      "thick bezels"
+    ],
+    "occlusion": "none",
+    "image_id": "9.jpg",
+    "price_inr": 85556.27
+  },
+  {
+    "category": "Electronics",
+    "subcategory": "Televisions",
+    "product_type": "Smart TV",
+    "brand": "Samsung",
+    "screen_size": "unknown",
+    "resolution": "4K",
+    "display_type": "QLED",
+    "smart_tv": "Yes",
+    "os": "Tizen",
+    "ports": [
+      "HDMI",
+      "USB",
+      "Ethernet"
+    ],
+    "design": "Bezel-less",
+    "stand_type": "Wall-mounted",
+    "visual_tags": [
+      "remote visible",
+      "wall mounted",
+      "slim bezels",
+      "soundbar visible",
+      "subwoofer visible"
+    ],
+    "occlusion": "none",
+    "image_id": "83.jpg",
+    "price_inr": 33111.81
+  },
+  {
+    "category": "Electronics",
+    "subcategory": "Televisions",
+    "product_type": "Smart TV",
+    "brand": "Sony",
+    "screen_size": "unknown",
+    "resolution": "unknown",
+    "display_type": "LED",
+    "smart_tv": "Yes",
+    "os": "unknown",
+    "ports": [],
+    "design": "Bezel-less",
+    "stand_type": "Tabletop",
+    "visual_tags": [
+      "wall mount accessory visible",
+      "cleaning spray visible",
+      "slim bezels"
+    ],
+    "occlusion": "none",
+    "image_id": "185.jpg",
+    "price_inr": 109828.96
+  },
+  {
+    "category": "Electronics",
+    "subcategory": "Televisions",
+    "product_type": "LED TV",
+    "brand": "Samsung",
+    "screen_size": "unknown",
+    "resolution": "unknown",
+    "display_type": "LED",
+    "smart_tv": "No",
+    "os": "unknown",
+    "ports": [],
+    "design": "Classic",
+    "stand_type": "Tabletop",
+    "visual_tags": [
+      "slim bezels"
+    ],
+    "occlusion": "none",
+    "image_id": "1.jpg",
+    "price_inr": 44410.24
+  },
+  {
+    "category": "Electronics",
+    "subcategory": "Televisions",
+    "product_type": "Smart TV",
+    "brand": "Westinghouse",
+    "screen_size": "unknown",
+    "resolution": "unknown",
+    "display_type": "LED",
+    "smart_tv": "Yes",
+    "os": "Roku TV",
+    "ports": [
+      "HDMI",
+      "USB",
+      "Ethernet"
+    ],
+    "design": "Slim",
+    "stand_type": "Tabletop",
+    "visual_tags": [
+      "streaming apps visible",
+      "tabletop stand",
+      "slim bezels"
+    ],
+    "occlusion": "none",
+    "image_id": "188.jpg",
+    "price_inr": 80017.59
+  },
+  {
+    "category": "Electronics",
+    "subcategory": "Televisions",
+    "product_type": "LED Backlight Strips",
+    "brand": "Mi",
+    "screen_size": "unknown",
+    "resolution": "unknown",
+    "display_type": "LED",
+    "smart_tv": "No",
+    "os": "unknown",
+    "ports": [],
+    "design": "unknown",
+    "stand_type": "unknown",
+    "visual_tags": [],
+    "occlusion": "none",
+    "image_id": "97.jpg",
+    "price_inr": 22103.84
+  },
+  {
+    "category": "Electronics",
+    "subcategory": "Televisions",
+    "product_type": "LED TV",
+    "brand": "LG",
+    "screen_size": "unknown",
+    "resolution": "unknown",
+    "display_type": "LED",
+    "smart_tv": "No",
+    "os": "unknown",
+    "ports": [],
+    "design": "Classic",
+    "stand_type": "Tabletop",
+    "visual_tags": [
+      "slim bezels"
+    ],
+    "occlusion": "none",
+    "image_id": "36.jpg",
+    "price_inr": 118590.06
+  },
+  {
+    "category": "Electronics",
+    "subcategory": "Televisions",
+    "product_type": "LED TV",
+    "brand": "Sony",
+    "screen_size": "unknown",
+    "resolution": "unknown",
+    "display_type": "LED",
+    "smart_tv": "unknown",
+    "os": "unknown",
+    "ports": [],
+    "design": "Slim",
+    "stand_type": "Tabletop",
+    "visual_tags": [
+      "slim bezels"
+    ],
+    "occlusion": "none",
+    "image_id": "65.jpg",
+    "price_inr": 124950.29
+  },
+  {
+    "category": "Electronics",
+    "subcategory": "Power Accessories",
+    "product_type": "AC Adapter",
+    "brand": "Hisense",
+    "screen_size": null,
+    "resolution": null,
+    "display_type": null,
+    "smart_tv": null,
+    "os": null,
+    "ports": [
+      "AC Input",
+      "DC Output"
+    ],
+    "design": "Classic",
+    "stand_type": null,
+    "visual_tags": [
+      "power cord visible"
+    ],
+    "occlusion": "none",
+    "image_id": "90.jpg",
+    "price_inr": 57637.89
+  },
+  {
+    "category": "Electronics",
+    "subcategory": "Televisions",
+    "product_type": "Smart TV",
+    "brand": "Samsung",
+    "screen_size": "unknown",
+    "resolution": "8K",
+    "display_type": "QLED",
+    "smart_tv": "Yes",
+    "os": "unknown",
+    "ports": [],
+    "design": "Bezel-less",
+    "stand_type": "Tabletop",
+    "visual_tags": [
+      "slim bezels"
+    ],
+    "occlusion": "none",
+    "image_id": "63.jpg",
+    "price_inr": 25717.53
+  },
+  {
+    "category": "Electronics",
+    "subcategory": "Televisions",
+    "product_type": "CRT TV",
+    "brand": "Toshiba",
+    "screen_size": "unknown",
+    "resolution": "unknown",
+    "display_type": "CRT",
+    "smart_tv": "No",
+    "os": "None",
+    "ports": [
+      "Composite",
+      "Audio In",
+      "Audio Out",
+      "Headphone"
+    ],
+    "design": "Classic",
+    "stand_type": "Tabletop",
+    "visual_tags": [
+      "built-in DVD player",
+      "front-facing speakers",
+      "classic CRT design"
+    ],
+    "occlusion": "none",
+    "image_id": "12.jpg",
+    "price_inr": 57089.29
+  },
+  {
+    "category": "Electronics",
+    "subcategory": "Televisions",
+    "product_type": "LED Backlight Strips",
+    "brand": "TCL",
+    "screen_size": "unknown",
+    "resolution": "unknown",
+    "display_type": "LED",
+    "smart_tv": "No",
+    "os": "unknown",
+    "ports": [],
+    "design": "unknown",
+    "stand_type": "unknown",
+    "visual_tags": [],
+    "occlusion": "none",
+    "image_id": "67.jpg",
+    "price_inr": 127649.72
+  },
+  {
+    "category": "Electronics",
+    "subcategory": "Televisions",
+    "product_type": "Smart TV",
+    "brand": "Vizio",
+    "screen_size": "unknown",
+    "resolution": "4K",
+    "display_type": "OLED",
+    "smart_tv": "Yes",
+    "os": "unknown",
+    "ports": [],
+    "design": "Bezel-less",
+    "stand_type": "Tabletop",
+    "visual_tags": [
+      "slim bezels"
+    ],
+    "occlusion": "none",
+    "image_id": "42.jpg",
+    "price_inr": 42285.97
+  },
+  {
+    "category": "Electronics",
+    "subcategory": "Televisions",
+    "product_type": "Smart TV",
+    "brand": "Element",
+    "screen_size": "unknown",
+    "resolution": "unknown",
+    "display_type": "LED",
+    "smart_tv": "Yes",
+    "os": "Roku TV",
+    "ports": [
+      "HDMI",
+      "USB",
+      "Ethernet"
+    ],
+    "design": "Slim",
+    "stand_type": "Tabletop",
+    "visual_tags": [
+      "slim bezels"
+    ],
+    "occlusion": "none",
+    "image_id": "60.jpg",
+    "price_inr": 25641.26
+  },
+  {
+    "category": "Electronics",
+    "subcategory": "Televisions",
+    "product_type": "Smart TV",
+    "brand": "Vizio",
+    "screen_size": "unknown",
+    "resolution": "4K",
+    "display_type": "QLED",
+    "smart_tv": "Yes",
+    "os": "unknown",
+    "ports": [
+      "HDMI",
+      "USB",
+      "Ethernet"
+    ],
+    "design": "Bezel-less",
+    "stand_type": "Tabletop",
+    "visual_tags": [
+      "slim bezels",
+      "tabletop stand",
+      "no remote visible"
+    ],
+    "occlusion": "none",
+    "image_id": "184.jpg",
+    "price_inr": 100157.42
+  },
+  {
+    "category": "Electronics",
+    "subcategory": "Televisions",
+    "product_type": "Smart TV",
+    "brand": "OnePlus",
+    "screen_size": "unknown",
+    "resolution": "unknown",
+    "display_type": "LED",
+    "smart_tv": "Yes",
+    "os": "unknown",
+    "ports": [],
+    "design": "Bezel-less",
+    "stand_type": "Wall-mounted",
+    "visual_tags": [
+      "wall mounted",
+      "bezel-less",
+      "no remote visible",
+      "art mode"
+    ],
+    "occlusion": "none",
+    "image_id": "68.jpg",
+    "price_inr": 34519.4
+  },
+  {
+    "category": "Electronics",
+    "subcategory": "Televisions",
+    "product_type": "unknown",
+    "brand": "Hisense",
+    "screen_size": "unknown",
+    "resolution": "unknown",
+    "display_type": "unknown",
+    "smart_tv": "No",
+    "os": "unknown",
+    "ports": [
+      "RCA"
+    ],
+    "design": "Classic",
+    "stand_type": "unknown",
+    "visual_tags": [],
+    "occlusion": "none",
+    "image_id": "27.jpg",
+    "price_inr": 31257.58
+  },
+  {
+    "category": "Electronics",
+    "subcategory": "Televisions",
+    "product_type": "LED TV",
+    "brand": "Vizio",
+    "screen_size": "unknown",
+    "resolution": "unknown",
+    "display_type": "LED",
+    "smart_tv": "unknown",
+    "os": "unknown",
+    "ports": [],
+    "design": "Classic",
+    "stand_type": "Tabletop",
+    "visual_tags": [
+      "slim bezels"
+    ],
+    "occlusion": "none",
+    "image_id": "128.jpg",
+    "price_inr": 79130.1
+  },
+  {
+    "category": "Electronics",
+    "subcategory": "Televisions",
+    "product_type": "LED TV",
+    "brand": "LG",
+    "screen_size": "unknown",
+    "resolution": "unknown",
+    "display_type": "LED",
+    "smart_tv": "unknown",
+    "os": "unknown",
+    "ports": [],
+    "design": "Slim",
+    "stand_type": "Tabletop",
+    "visual_tags": [
+      "slim bezels"
+    ],
+    "occlusion": "none",
+    "image_id": "53.jpg",
+    "price_inr": 131557.98
+  },
+  {
+    "category": "Electronics",
+    "subcategory": "Televisions",
+    "product_type": "LED TV",
+    "brand": "OnePlus",
+    "screen_size": "unknown",
+    "resolution": "unknown",
+    "display_type": "LED",
+    "smart_tv": "No",
+    "os": "unknown",
+    "ports": [
+      "HDMI",
+      "USB",
+      "AV",
+      "VGA",
+      "Audio Out"
+    ],
+    "design": "Classic",
+    "stand_type": "Tabletop",
+    "visual_tags": [
+      "side control buttons visible",
+      "tabletop stand",
+      "classic bezel"
+    ],
+    "occlusion": "none",
+    "image_id": "117.jpg",
+    "price_inr": 156462.9
+  },
+  {
+    "category": "Electronics",
+    "subcategory": "Televisions",
+    "product_type": "Smart TV",
+    "brand": "Samsung",
+    "screen_size": "55 inch",
+    "resolution": "4K",
+    "display_type": "QLED",
+    "smart_tv": "Yes",
+    "os": "Tizen",
+    "ports": [
+      "HDMI",
+      "USB",
+      "Ethernet"
+    ],
+    "design": "Bezel-less",
+    "stand_type": "Tabletop",
+    "visual_tags": [
+      "slim bezels"
+    ],
+    "occlusion": "none",
+    "image_id": "118.jpg",
+    "price_inr": 146365.29
+  },
+  {
+    "category": "Electronics",
+    "subcategory": "Televisions",
+    "product_type": "LED TV",
+    "brand": "Mi",
+    "screen_size": "unknown",
+    "resolution": "unknown",
+    "display_type": "LED",
+    "smart_tv": "unknown",
+    "os": "unknown",
+    "ports": [],
+    "design": "Classic",
+    "stand_type": "Tabletop",
+    "visual_tags": [
+      "slim bezels"
+    ],
+    "occlusion": "none",
+    "image_id": "10.jpg",
+    "price_inr": 135650.65
+  },
+  {
+    "category": "Electronics",
+    "subcategory": "Television Parts",
+    "product_type": "LED Backlight Strips",
+    "brand": "LG",
+    "screen_size": "unknown",
+    "resolution": "unknown",
+    "display_type": "LED",
+    "smart_tv": "No",
+    "os": "unknown",
+    "ports": [],
+    "design": "unknown",
+    "stand_type": "unknown",
+    "visual_tags": [],
+    "occlusion": "none",
+    "image_id": "103.jpg",
+    "price_inr": 127698.65
+  },
+  {
+    "category": "Electronics",
+    "subcategory": "Televisions",
+    "product_type": "LED TV",
+    "brand": "Vizio",
+    "screen_size": "32 inch",
+    "resolution": "1080p",
+    "display_type": "LED",
+    "smart_tv": "No",
+    "os": "unknown",
+    "ports": [
+      "HDMI"
+    ],
+    "design": "Classic",
+    "stand_type": "Tabletop",
+    "visual_tags": [
+      "tabletop stand",
+      "HDMI cable visible",
+      "screen cleaning cloth visible",
+      "slim bezels"
+    ],
+    "occlusion": "none",
+    "image_id": "99.jpg",
+    "price_inr": 108383.49
+  },
+  {
+    "category": "Electronics",
+    "subcategory": "Televisions",
+    "product_type": "Smart TV",
+    "brand": "Sony",
+    "screen_size": "unknown",
+    "resolution": "unknown",
+    "display_type": "LED",
+    "smart_tv": "Yes",
+    "os": "unknown",
+    "ports": [],
+    "design": "Slim",
+    "stand_type": "Tabletop",
+    "visual_tags": [
+      "slim bezels"
+    ],
+    "occlusion": "none",
+    "image_id": "199.jpg",
+    "price_inr": 132365.73
+  },
+  {
+    "category": "Electronics",
+    "subcategory": "Televisions",
+    "product_type": "LED TV",
+    "brand": "Vizio",
+    "screen_size": "unknown",
+    "resolution": "unknown",
+    "display_type": "LED",
+    "smart_tv": "No",
+    "os": "unknown",
+    "ports": [],
+    "design": "Classic",
+    "stand_type": "Tabletop",
+    "visual_tags": [
+      "slim bezels"
+    ],
+    "occlusion": "none",
+    "image_id": "146.jpg",
+    "price_inr": 159803.08
+  },
+  {
+    "category": "Electronics",
+    "subcategory": "Televisions",
+    "product_type": "Remote Control",
+    "brand": "Technicolor",
+    "screen_size": "unknown",
+    "resolution": "unknown",
+    "display_type": "unknown",
+    "smart_tv": "unknown",
+    "os": "unknown",
+    "ports": [],
+    "design": "Classic",
+    "stand_type": "unknown",
+    "visual_tags": [
+      "remote visible"
+    ],
+    "occlusion": "none",
+    "image_id": "81.jpg",
+    "price_inr": 80955.1
+  },
+  {
+    "category": "Electronics",
+    "subcategory": "Televisions",
+    "product_type": "Smart TV",
+    "brand": "Vizio",
+    "screen_size": "unknown",
+    "resolution": "unknown",
+    "display_type": "OLED",
+    "smart_tv": "Yes",
+    "os": "unknown",
+    "ports": [],
+    "design": "Bezel-less",
+    "stand_type": "Tabletop",
+    "visual_tags": [
+      "slim bezels"
+    ],
+    "occlusion": "none",
+    "image_id": "159.jpg",
+    "price_inr": 153535.75
+  },
+  {
+    "category": "Electronics",
+    "subcategory": "AV Equipment",
+    "product_type": "AV Switch/Converter",
+    "brand": "Black Box",
+    "screen_size": null,
+    "resolution": null,
+    "display_type": null,
+    "smart_tv": "No",
+    "os": null,
+    "ports": [],
+    "design": "Box",
+    "stand_type": null,
+    "visual_tags": [],
+    "occlusion": "none",
+    "image_id": "54.jpg",
+    "price_inr": 141665.63
+  },
+  {
+    "category": "Electronics",
+    "subcategory": "Televisions",
+    "product_type": "Smart TV",
+    "brand": "Samsung",
+    "screen_size": "unknown",
+    "resolution": "4K",
+    "display_type": "QLED",
+    "smart_tv": "Yes",
+    "os": "Tizen",
+    "ports": [
+      "HDMI",
+      "USB",
+      "Ethernet"
+    ],
+    "design": "Bezel-less",
+    "stand_type": "Wall-mounted",
+    "visual_tags": [
+      "soundbar visible",
+      "outdoor TV",
+      "slim bezels"
+    ],
+    "occlusion": "none",
+    "image_id": "80.jpg",
+    "price_inr": 53448.61
+  }
+]
