@@ -1,0 +1,14 @@
+/home/ubuntu/inalpha/embedding_server/embedding_service.py:164: DeprecationWarning: 
+        on_event is deprecated, use lifespan event handlers instead.
+
+        Read more about it in the
+        [FastAPI docs for Lifespan Events](https://fastapi.tiangolo.com/advanced/events/).
+        
+  @app.on_event("startup")
+INFO:     Started server process [512043]
+INFO:     Waiting for application startup.
+2025-05-23 19:36:13,443 - embedding_service - INFO - Starting embedding service and loading model...
+2025-05-23 19:36:18,507 - embedding_service - INFO - Loading embedding model: llamaindex/vdr-2b-multi-v1
+A new version of the following files was downloaded from https://huggingface.co/llamaindex/vdr-2b-multi-v1:
+- custom_st.py
+. Make sure to double-check they do not contain any added malicious code. To avoid downloading new versions of the code file, you can pin a revision.
