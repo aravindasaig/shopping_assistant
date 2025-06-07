@@ -1,0 +1,32 @@
+{
+  "azure_openai": {
+    "api_key": "your-azure-openai-api-key",
+    "endpoint": "https://your-resource-name.openai.azure.com",
+    "api_version": "2023-05-15"
+  },
+  "milvus": {
+    "uri": "http://localhost:19530",
+    "user": "username",
+    "password": "password",
+    "token": "your-token"
+  },
+  "vector_db": {
+    "type": "weaviate",
+    "weaviate": {
+      "http_host": "weaviate.weaviate.svc.cluster.local",
+      "http_port": 80,
+      "grpc_host": "weaviate-grpc.weaviate.svc.cluster.local",
+      "grpc_port": 50051
+    }
+  },
+  "service": {
+    "port": 8000,
+    "host": "0.0.0.0"
+  },
+  "logging": {
+    "to_file": true,
+    "file_path": "./logs/rag_api.log",
+    "max_bytes": 10485760,
+    "backup_count": 5
+  }
+} 
