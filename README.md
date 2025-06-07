@@ -61,7 +61,8 @@ python design_time/generation/text2sql_agent.py
 
 ## 🧠 LangGraph Agent Architecture
 
-```mermaidgraph TD
+```mermaid
+graph TD
     %% Entry
     Start["🧭 Entry: User Input"]
     
