@@ -61,15 +61,72 @@ python design_time/generation/text2sql_agent.py
 
 ## 🧠 LangGraph Agent Architecture
 
-```mermaid
-graph TD
-    Start --> ClassifyIntent
-    ClassifyIntent -->|FAQ| SQLAgent
-    ClassifyIntent -->|Product Search| EmbedSearch
-    EmbedSearch --> ClarifyPreferences
-    ClarifyPreferences --> ReRankResults
-    ReRankResults --> Respond
-    SQLAgent --> Respond
+```mermaidgraph TD
+    %% Entry
+    Start["🧭 Entry: User Input"]
+    
+    %% Supervisor routes
+    Start --> Supervisor
+    Supervisor -->|next_action = guardrails| Guardrails
+    Supervisor -->|next_action = cart_manager| CartManager
+    Supervisor -->|next_action = small_talk| SmallTalk
+    Supervisor -->|next_action = out_of_domain| OutOfDomain
+    Supervisor -->|next_action = intent_classifier| IntentClassifier
+    
+    %% Guardrails branching
+    Guardrails -->|is_safe = true| IntentClassifier
+    Guardrails -->|is_safe = false| EndUnsafe
+    
+    %% UNIVERSAL CONTEXT PIPELINE (ALL queries go through this)
+    IntentClassifier --> EntityExtractor
+    EntityExtractor --> Stitcher
+    
+    %% After context stitching, route based on intent
+    Stitcher -->|intent = faq| SQLAgent
+    Stitcher -->|intent = product_search| VectorSearch
+    Stitcher -->|intent = clarification_response| VectorSearch
+    Stitcher -->|intent = modification| VectorSearch
+    
+    %% Product search flow continues
+    VectorSearch --> Clarify
+    Clarify --> ResponseGen
+    
+    %% Clarification path
+    ResponseGen -->|needs_clarification = false| End
+    ResponseGen -->|needs_clarification = true| End
+    
+    %% Terminal routes
+    CartManager --> End
+    SmallTalk --> End
+    OutOfDomain --> End
+    SQLAgent --> End
+    
+    %% Node declarations
+    Supervisor["🎭 Supervisor Node<br/>Routes based on safety & action type"]
+    Guardrails["🛡️ Guardrails<br/>Content safety & moderation"]
+    CartManager["🛒 Cart Manager<br/>Add/remove/view cart"]
+    SmallTalk["💬 Small Talk<br/>Greetings & casual chat"]
+    OutOfDomain["❓ Out-of-Domain<br/>Non-shopping queries"]
+    IntentClassifier["🧠 Intent Classifier<br/>FAQ vs Product Search vs Clarification"]
+    EntityExtractor["🔍 Entity Extractor<br/>GPT-4.1 Vision + Text"]
+    Stitcher["🧵 Context Stitcher<br/>Resolves 'them', 'it', etc."]
+    SQLAgent["🗃️ SQL Agent<br/>Analytics & FAQ queries"]
+    VectorSearch["🔍 Vector Search<br/>Weaviate hybrid search"]
+    Clarify["❓ Clarification Checker<br/>Smart thresholds"]
+    ResponseGen["💬 Response Generator<br/>Natural language output"]
+    End["🔚 End"]
+    EndUnsafe["🔚 End (Unsafe)"]
+    
+    %% Styling
+    classDef supervisor fill:#ff9999
+    classDef context fill:#99ccff
+    classDef terminal fill:#99ff99
+    classDef processing fill:#ffcc99
+    
+    class Supervisor supervisor
+    class EntityExtractor,Stitcher context
+    class CartManager,SmallTalk,OutOfDomain,SQLAgent,End,EndUnsafe terminal
+    class IntentClassifier,Guardrails,VectorSearch,Clarify,ResponseGen processing
 ```
 
 ---
